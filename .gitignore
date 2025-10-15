@@ -1,0 +1,16 @@
+/*
+!/.gitignore
+!/README.md
+!/RELEASE.md
+!/.github
+!/.github/workflows/
+!/.github/workflows/release.yml
+
+!/game/
+/game/*
+!/game/tl/
+/game/tl/*
+!/game/tl/japanese_pirate/
+!/game/tl/japanese_pirate/*.rpy
+!/game/tl/japanese_pirate/README.md
+/game/tl/japanese_pirate/*.rpyc

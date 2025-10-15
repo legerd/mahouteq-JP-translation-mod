@@ -1,0 +1,67 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - 'v*'  # v1.0.0 のような形式のタグでトリガー
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Create translation mod package
+        run: |
+          # 翻訳modに必要なファイルだけをパッケージング
+          mkdir -p mahouteq-japanese-translation/game/tl
+
+          # game/tl/japanese_pirate フォルダをそのままコピー
+          cp -r game/tl/japanese_pirate mahouteq-japanese-translation/game/tl/
+
+          # READMEをルートにREADME_JP_MOD.mdとしてコピー
+          if [ -f game/tl/japanese_pirate/README.md ]; then
+            cp game/tl/japanese_pirate/README.md mahouteq-japanese-translation/README_JP_MOD.md
+          fi
+
+          # ZIPファイルを作成
+          cd mahouteq-japanese-translation
+          zip -r ../mahouteq-japanese-translation.zip .
+          cd ..
+
+      - name: Get tag name
+        id: get_version
+        run: echo "VERSION=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: mahouteq-japanese-translation.zip
+          body: |
+            # MAHOUTEQ! 日本語翻訳 Mod ${{ steps.get_version.outputs.VERSION }}
+
+            ## インストール方法
+
+            1. 最新の「mahouteq-japanese-translation.zip」ファイルをダウンロードし、解凍します。
+            
+            2. 解凍したファイルを MAHOUTEQ! のゲームディレクトリにコピーしてください
+               - Steam版の場合: `C:\Program Files (x86)\Steam\steamapps\common\MAHOUTEQ!\`がゲームフォルダです。
+               - `\game\tl\` フォルダにjapanese_pirateフォルダが配置されればOKです。
+
+            3. ゲームを起動すると、言語選択画面に「Japanese(Pirate)」が表示されます
+
+            ## 注意事項
+
+            - 日本語フォントはWindows標準の `meiryo.ttc` を使用しています。
+            - 今後の公式のアップデートにより動作しなくなる恐れがあります。
+            - セーブデータの破損やゲームの破損に対して責任は負いかねますのでご留意ください。
+
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
