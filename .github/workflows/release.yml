@@ -30,9 +30,7 @@ jobs:
           fi
 
           # ZIPファイルを作成
-          cd mahouteq-japanese-translation
-          zip -r ../mahouteq-japanese-translation.zip .
-          cd ..
+          zip -r mahouteq-japanese-translation.zip mahouteq-japanese-translation
 
       - name: Get tag name
         id: get_version
