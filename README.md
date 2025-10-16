@@ -3,11 +3,11 @@
 ## インストール方法
 1. [こちら](https://github.com/legerd/mahouteq-JP-translation-mod/releases/latest/download/mahouteq-japanese-translation.zip)から最新の「mahouteq-japanese-translation.zip」ファイルをダウンロードし、解凍します。
 
-2. 解凍したファイルを MAHOUTEQ! のゲームディレクトリにコピーしてください
-   - Steam版の場合: `C:\Program Files (x86)\Steam\steamapps\common\MAHOUTEQ!\`がゲームフォルダです。
+2. 解凍したフォルダのgameディレクトリを MAHOUTEQ! のインストールされているディレクトリ内にD&Dしてください
+   - Steam版の場合: `C:\Program Files (x86)\Steam\steamapps\common\MAHOUTEQ!\`がゲームのインストールされているディレクトリです。
    - `\game\tl\` フォルダにjapanese_pirateフォルダが配置されればOKです。
 
-3. ゲームを起動すると、言語選択画面に「Japanese(Pirate)」が表示されます
+3. インストール後ゲームを起動すると、言語選択画面に「Japanese(Pirate)」が表示されます
 
 ## 注意事項
 - 日本語フォントはWindows標準の `meiryo.ttc` を使用しています。
