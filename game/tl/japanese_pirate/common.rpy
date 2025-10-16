@@ -1,4 +1,34 @@
-﻿# TODO: Translation updated at 2025-10-13 21:52
+# TODO: Translation updated at 2025-10-13 21:52
+
+# ドットの粒度を上げるための調整
+transform pixel_zoom:
+    nearest True
+    zoom 0.80
+
+# # 2) say スクリーンで "what" テキストに適用
+screen say(who, what):
+    style_prefix "say"
+
+    window:
+        id "window"
+
+        if who is not None:
+
+            window:
+                id "namebox"
+                style "namebox"
+                text who id "who":
+                    if _preferences.language == "japanese_pirate":
+                        at pixel_zoom
+
+        text what id "what":
+            if _preferences.language == "japanese_pirate":
+                at pixel_zoom
+    ## Если есть боковое изображение ("голова"), показывает её поверх текста.
+    ## По стандарту не показывается на варианте для мобильных устройств — мало
+    ## места.
+    if not renpy.variant("small"):
+        add SideImage() xalign 0.0 yalign 1.0
 
 translate japanese_pirate python:
     gui.text_font = "meiryo.ttc"
@@ -10,14 +40,18 @@ translate japanese_pirate python:
     gui.font = "meiryo.ttc"
 
     # フォントサイズ調整（デフォルトは10）
-    gui.text_size = 11
+    gui.text_size = 12
     gui.interface_text_size = 10
     gui.button_text_size = 9
     gui.label_text_size = 10
+    gui.dialogue_width = 340 
 
     # 字幕（sub）キャラクターのフォントサイズ調整（元は12）
-    sub.what_size = 10
-    sub1.what_size = 10
+    sub.what_size = 12
+    sub1.what_size = 12
+
+    # テキスト表示速度を遅くする（日本語は漢字があるため情報密度が高い）
+    preferences.text_cps = 22
 
 translate japanese_pirate strings:
     # renpy/common/00accessibility.rpy:28

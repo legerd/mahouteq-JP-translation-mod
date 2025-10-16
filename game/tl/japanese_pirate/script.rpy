@@ -4,13 +4,13 @@
 translate japanese_pirate start_63cf09f1:
 
     # sub "Дисклеймер:\nИстория происходит в альтернативной Японии. Все персонажи и события выдуманы, а земля плоская."
-    sub "免責事項: このゲームの舞台はもう一つの世界の日本です。すべてのキャラクターや出来事はフィクションです。そして地球は平面です。"
+    sub "免責事項: このゲームの舞台は現実と異なる世界の日本です。すべてのキャラクターや出来事はフィクションです。そして地球は平面です。"
 
 # game/script.rpy:264
 translate japanese_pirate start_692f584d:
 
     # sub "В небольшом городе, окруженном ветряными мельницами, родилась необычная девочка."
-    sub "風力発電機に囲まれた小さな町で、一人の特別な女の子が生まれた。"
+    sub "風車に囲まれた小さな町で、一人の特別な女の子が生まれた。"
 
 # game/script.rpy:266
 translate japanese_pirate start_3c2e71d7:
@@ -41,13 +41,13 @@ translate japanese_pirate start_6c9531a6:
 
     # sub "В три месяца сказала первое слово.{p} В три года уже свободно говорила, обгоняя своих сверстников."
     sub "初めて言葉を話したのはまだ生まれてから3ヶ月のころだった。"
-    sub "3歳になるまでに、周りの子供より先に彼女はもう自在に話せていた。"
+    sub "3歳になるまでに、彼女はもう自在に話せていた、周りの子供より先に。"
 
 # game/script.rpy:276
 translate japanese_pirate start_fc254364:
 
     # sub "Луна окончила младшую школу на отлично и подавала большие надежды."
-    sub "ルナは小学校をオールAで終え、まったく順風満帆だった。"
+    sub "ルナは小学校をオールAで終え、将来有望だった。"
 
 # game/script.rpy:277
 translate japanese_pirate start_622525da:
@@ -77,7 +77,7 @@ translate japanese_pirate start_fbee85dd:
 translate japanese_pirate start_c4004461:
 
     # Пп "Что-что? {w}Моя новая прическа-пи? {w}Мой костюм-пи? {w}Ах да! {w}Скоро ведь выходит пятый сезон нашего аниме, вот я и приоделась-пи! {w}Как вам? {w}Милота, не правда ли-пи?"
-    Пп "ピってなに？、{w}その新しい髪型は？、{w}そのピしょう（衣装）は？って？{w}実はね！{w}私たちのアニメの五期がもうすぐなの、だから新衣装ができたの、っピ！{w}気に入ってくれた？{w}私、とってもかわピい、でしょ！？"
+    Пп "ピってなに？、{w}その新しい髪型は？、{w}そのピしょう（衣装）は？って？{w}実はね！{w}私たちのアニメの五期がもうすぐなの、だから今日は新衣装を着てきたの！、っピ！{w}気に入ってくれた？{w}私、とってもかわピい、でしょ！？"
 
 # game/script.rpy:296
 translate japanese_pirate start_f2ddc8c5:
@@ -89,7 +89,7 @@ translate japanese_pirate start_f2ddc8c5:
 translate japanese_pirate start_4919c1b4:
 
     # Телевизор "Ограниченный сет: костюм Папипо-чан в комплекте с ультраредкой фигуркой Папипо-чан в наряде горничной!!! {w}Успейте купить! {w}В продаже всего пять дней!" with flash
-    Телевизор "「限定版: パピポちゃんドレス」特典として激レアメイド服パピポちゃんフィギュアがついてくる！！！{w}今すぐ買おう！{w}5日間の限定販売！" with flash
+    Телевизор "限定版: パピポちゃんドレス　購入特典として激レアメイド服パピポちゃんフィギュアがついてくる！！！{w}今すぐ買おう！{w}5日間の限定販売！" with flash
 
 # game/script.rpy:306
 translate japanese_pirate start_9ae19f31:
@@ -143,7 +143,7 @@ translate japanese_pirate start_1c7c3250:
 translate japanese_pirate start_14d19347:
 
     # Л "Одна… {w}две… {w}две с половиной…"
-    Л "千円、{w}二千円...{w}それに小銭が少し....."
+    Л "一枚、{w}二枚...{w}それに小銭が少し....."
 
 # game/script.rpy:350
 translate japanese_pirate start_b23c9f91:
@@ -203,7 +203,7 @@ translate japanese_pirate start_73cef991:
 translate japanese_pirate start_e56f7a18:
 
     # Ма "А то вырастила, понимаешь, нахлебницу. {w}Над тобой уже соседские дети посмеиваются!"
-    Ма "私どうやって自分の娘をこんなただ飯食らいに育てちゃったのかしら？{w}近所の子はみんなあなたを笑ってるわよ！"
+    Ма "私どうやって自分の娘をこんなニートに育てちゃったのかしら？{w}近所の子はみんなあなたを笑ってるわよ！"
 
 # game/script.rpy:366
 translate japanese_pirate start_a4515d7e:
@@ -215,7 +215,7 @@ translate japanese_pirate start_a4515d7e:
 translate japanese_pirate start_d09e9b31:
 
     # Ма "Я два раза не повторяю. {w}И, кстати, насчет заработка. {w}Я тебя записала в центр занятости на пол-одиннадцатого. {w}Сегодня. {w}Так что собирайся."
-    Ма "同じことは二度言わないわ。{w}ああ、それにお金を稼ぐんだったらちょうどいいわ。{w}サービスセンターの仕事の面接を申し込んでおいたから、今日の午前の10時半からよ。{w}準備して行ってきなさい。"
+    Ма "同じことは二度言わないわ。{w}ああ、それにお金を稼ぐんだったらちょうどいいわ。{w}ハローワークの予約をしておいたから、今日の午前の10時半からよ。{w}準備して行ってきなさい。"
 
 # game/script.rpy:368
 translate japanese_pirate start_42b8bf34:
@@ -273,7 +273,7 @@ translate japanese_pirate start_216d9be0:
 
 # game/script.rpy:388
 translate japanese_pirate start_98740d12:
-    "通りはまさしく巨大なオーブンに変わっていた。"
+    "通りはまるで巨大なオーブンだった。"
 
 # game/script.rpy:392
 translate japanese_pirate start_ec1bed0e:
@@ -285,7 +285,7 @@ translate japanese_pirate start_d3ff0f72:
 
 # game/script.rpy:401
 translate japanese_pirate start_eea344b3:
-    "200mかそれくらい歩いて、私はコーヒーショップで一息入れることに決めた。"
+    "200m ほどを歩いて、私はコーヒーショップで一息入れることに決めた。"
 
 # game/script.rpy:409
 translate japanese_pirate start_06052fd8:
@@ -409,7 +409,7 @@ translate japanese_pirate start_23e827bd:
 
 # game/script.rpy:467
 translate japanese_pirate start_afc1f3f1:
-    "私は記された住所に向かって全力で走った。と言っても、その全力は息が切れるまでの 50m しか持たなかったけど。こんなに速く走ったのは中学生以来だった。"
+    "私は書いてあった住所に向かって全力で走った。{w}こんなに速く走ったのは中学生以来だった。{w}と言っても、その全力は息が切れるまでの 50m しか持たなかったけど。"
 
 # game/script.rpy:471
 translate japanese_pirate start_f193e964:
@@ -441,7 +441,7 @@ translate japanese_pirate start_9e21d657:
 
 # game/script.rpy:491
 translate japanese_pirate start_5587cd7c:
-    Ад "こんにちは。本日はどのようなご用件でしょうか？"
+    Ад "こんにちは。本日はどのようなご用件ですか？"
 
 # game/script.rpy:492
 translate japanese_pirate start_da11130d:
@@ -517,11 +517,11 @@ translate japanese_pirate start_b4347394:
 
 # game/script.rpy:534
 translate japanese_pirate start_ca70d2d6:
-    "ようやく最後のフロアにたどり着いた。{w}あとはCEOの部屋で契約書にサインをもらうだけだった。"
+    "ようやく最後のフロアにたどり着いた。{w}あとは CEO の部屋で契約書にサインをもらうだけだった。"
 
 # game/script.rpy:536
 translate japanese_pirate start_0e0dbbfe:
-    М "こんにちはー。"
+    М "こんにちは。"
 
 # game/script.rpy:538
 translate japanese_pirate start_4a2e61bc:
@@ -533,7 +533,7 @@ translate japanese_pirate start_e2ac6e5f:
 
 # game/script.rpy:540
 translate japanese_pirate start_10ec3b74:
-    М "あー...{w}いいわよ。{w}私があなたをCEOの部屋まで案内するわ。{w}それからこの会社の簡単なツアーをしてあげる。{w}冷たいお水でも飲む？"
+    М "あー...{w}いいわよ。{w}私があなたを CEO の部屋まで案内するわ。{w}それからこの会社の簡単なツアーをしてあげる。{w}冷たいお水でも飲む？"
 
 # game/script.rpy:541
 translate japanese_pirate start_6ed3442e:
@@ -557,11 +557,11 @@ translate japanese_pirate start_9bf57a97:
 
 # game/script.rpy:551
 translate japanese_pirate start_1c1fc6b4:
-    "本棚と積み重なった箱の山が壁沿いに並んでいた。{w}そして部屋の中央には彫り細工のされた赤い木机が置かれていた。{w}その背後の高い椅子にCEOは座っていた。"
+    "本棚と積み重なった箱の山が壁沿いに並んでいた。{w}そして部屋の中央には彫り細工のされた赤い木机が置かれていた。{w}その背後の高い椅子に CEO は座っていた。"
 
 # game/script.rpy:552
 translate japanese_pirate start_1004f03e:
-    "CEOは私に背を向けていて、{w}おそらくドラマチックな登場のための最適な間をはかっているようだった。"
+    "CEO は私に背を向けていて、{w}おそらくドラマチックな登場のための最適な間をはかっているようだった。"
 
 # game/script.rpy:563
 translate japanese_pirate start_c6b2ed70:
@@ -649,7 +649,7 @@ translate japanese_pirate start_a3b1fb16:
 
 # game/script.rpy:662
 translate japanese_pirate start_06dff432:
-    Л "はい、えっとなんていうか.....{w}ここのCEOは猫なんですね。"
+    Л "はい、えっとなんていうか.....{w}ここの CEO は猫なんですね。"
 
 # game/script.rpy:671
 translate japanese_pirate start_9d1403f8:
@@ -869,11 +869,11 @@ translate japanese_pirate start_9cb9cbae:
 
 # game/script.rpy:821
 translate japanese_pirate start_4b62225f:
-    Л "す、すいません、{w}あれ、{w}もしかして何かの手違いですかね？{w}私、魔法少女になれるって話で……。"
+    Л "す、すいません、{w}あれ、{w}もしかして何かの手違いなんですかね？{w}私、魔法少女になれるって話だと思って……。"
 
 # game/script.rpy:822
 translate japanese_pirate start_6fce8ca9:
-    И "うんうん。{w}衣装、魔法みたいに似合ってるじゃないか。{w}回ったりジャンプしてみて。{w}もしきついようなら言ってね。"
+    И "うんうん。{w}衣装、魔法みたいに似合ってるじゃないか。{w}くるって回ったり跳ねたりしてみて。{w}もしきついようなら言ってね。"
 
 # game/script.rpy:825
 translate japanese_pirate start_cbab1ef7:
@@ -894,7 +894,7 @@ translate japanese_pirate start_be6a24c8:
 
 # game/script.rpy:838
 translate japanese_pirate start_12fb0ad2:
-    Л "いや、問題ないです、{w}でも……。"
+    Л "いや、ピッタリです、{w}でも……。"
 
 # game/script.rpy:839
 translate japanese_pirate start_f2e65bb9:
@@ -1050,11 +1050,11 @@ translate japanese_pirate start_661a9fb3:
 
 # game/script.rpy:911
 translate japanese_pirate start_d68ccbb5:
-    И "よし、いいね。{w}そしたらステッキを小さく円状に動かして。"
+    И "よし、いいね。{w}そしたら杖を小さく円状に動かして。"
 
 # game/script.rpy:912
 translate japanese_pirate start_438dcdee:
-    "私はステッキを振った。"
+    "私は杖を振った。"
 
 # game/script.rpy:919
 translate japanese_pirate start_12861820:
@@ -1074,7 +1074,7 @@ translate japanese_pirate start_e7d1dfcd:
 
 # game/script.rpy:923
 translate japanese_pirate start_c12bb8b9:
-    И "絵で物の輪郭を描くときみたいにね。{w}わかった？"
+    И "物の輪郭に絵具を塗るときみたいにね。{w}わかった？"
 
 # game/script.rpy:924
 translate japanese_pirate start_184adbf2:
@@ -1114,7 +1114,7 @@ translate japanese_pirate start_51681b10:
 
 # game/script.rpy:936
 translate japanese_pirate start_7ed9cb46:
-    "私はやっとなんとか息を吐き出せた。" with vpunch
+    "私はやっと息を吐き出せた。" with vpunch
 
 # game/script.rpy:937
 translate japanese_pirate start_ac3d2595:
@@ -1122,7 +1122,7 @@ translate japanese_pirate start_ac3d2595:
 
 # game/script.rpy:938
 translate japanese_pirate start_3d6d0134:
-    Л "できた…"
+    Л "できたー......。"
 
 # game/script.rpy:941
 translate japanese_pirate start_5b970529:
@@ -1152,7 +1152,7 @@ translate japanese_pirate start_b3e82901:
 
 # game/script.rpy:948
 translate japanese_pirate start_1f6fea87:
-    И "あと、一度、他のやつの顔を間違えてひっぺがしちゃったやつもいたな。{w}外科医がなんとか元に縫い戻してやれたんだ。{w}でも、そいつは3か月後に風呂場で首を吊ったよ。{w}なあ、面白い話だろ？"
+    И "あと、一度、他のやつの顔を間違えて剥がししまったやつもいたな。{w}外科医がなんとか元に縫い戻してやれたんだ。{w}でも、そいつは3か月後に風呂場で首を吊ったよ。{w}なあ、面白い話だろ？"
 
 # game/script.rpy:949
 translate japanese_pirate start_8f5631ff:
@@ -1184,11 +1184,11 @@ translate japanese_pirate start_11e5391a:
 
 # game/script.rpy:986
 translate japanese_pirate start_6179e0c7:
-    И "よし、これが今日の任務だ。{w}『川の南岸での処分活動』。{w}時間は七時まである。{w}これだけあれば十分だろう。{w}ペアに分かれて自分の仕事場を選んでくれ。{w}質問は？{w}ない？{w}では仕事にかかれ！"
+    И "よし、これが今日の任務だ。{w}『川の南岸での処分活動』。{w}時間は七時まである。{w}これだけあれば十分だろう。{w}ペアに分かれて自分の仕事場を選んでくれ。{w}質問は？{w}ないな。{w}では仕事にかかれ！"
 
 # game/script.rpy:988
 translate japanese_pirate start_8089bba8:
-    "皆はざわめきだし、あたりを走りはじめた。{w}そしてそれぞれの担当エリアに散っていった。{w}私はただ立ち尽くしていた――完全に呆然としてしまい、{w}何をしたらいいかわからなかった。"
+    "皆はいっせいに騒めきだし、{w}あたりを走り回ってそれぞれの担当エリアに散っていった。{w}私は完全に呆然としてしまい、{w}何をしたらいいかすらわからず、ただ立ち尽くしていた。"
 
 # game/script.rpy:989
 translate japanese_pirate start_a84ad748:
@@ -1224,20 +1224,20 @@ translate japanese_pirate start_10a4c452:
 
 # game/script.rpy:997
 translate japanese_pirate start_776b29ca:
-    "ツインテールの威圧的な感じの女の子が歩いてきた。{w}彼女は私を疑わしげに眺め、ぶつぶつ独り言を言ってから、{w}私についてくるよう命じた。{w}私は何も聞かずにその後を追った。"
+    "威嚇するみたいな態度のツインテールの女の子が歩いてきた。{w}彼女は私を疑わしげに眺め、ぶつぶつ独り言を言ってから、{w}私についてくるよう命じた。{w}私は何も聞かずにその後を追った。"
 
 
 # game/script.rpy:1085
 translate japanese_pirate start_80fc0215:
 
     # "Мы вышли со двора и направились к реке."
-    "私たちはバックヤードから歩いて出ると、{w}目的の川に向かった。"
+    "私たちはバックヤードから外に出て目的の川に向かった。"
 
 # game/script.rpy:1088
 translate japanese_pirate start_957038ff:
 
     # Л "Извините, а мы—"
-    Л "ごめんなさい、アヤさん、私たち……"
+    Л "あの、ごめんなさい、アヤさん、私……"
 
 # game/script.rpy:1089
 translate japanese_pirate start_49ddb9e5:
@@ -1387,7 +1387,7 @@ translate japanese_pirate start_7d26dba1:
 translate japanese_pirate start_40d4fab5:
 
     # "Я даже не помню, была ли эта речка когда-либо чистой. {w}По оба берега до горизонта простирались горы мусора, а затхлый запах гнилья выедал ноздри."
-    "私にはもう、かつてはこの川がきれいだったのかさえ思い出せない。{w}ゴミの山が両岸に見渡す限り列をなし、物の腐る嫌な臭いが鼻腔を蝕んだ。"
+    "私にはもう、かつてはこの川がきれいなときがあったのかどうかさえ思い出せない。{w}ゴミの山が両岸に見渡す限り列をなし、物の腐る嫌な臭いが鼻腔を蝕んだ。"
 
 # game/script.rpy:1118
 translate japanese_pirate start_cf2fa220:
@@ -1489,7 +1489,7 @@ translate japanese_pirate start_5b0a0e9a:
 translate japanese_pirate start_287aeb30:
 
     # А "Все. {w}Хватит трепаться. {w}Там уже вышки развернули. {w}А нам надо два километра очистить!"
-    А "はいはい。無駄なおしゃべりはもうやめにしよう。もうタワーは展開されてる。そんで私たちはこれから2kmも掃除しなきゃいけない。"
+    А "はいはい。無駄なおしゃべりはもうやめにしよう。もうタワーは展開されてる。そんで私たちはこれから 2km も掃除しなきゃいけない。"
 
 # game/script.rpy:1147
 translate japanese_pirate start_4772cecc:
@@ -1975,7 +1975,7 @@ translate japanese_pirate E3att4_8c538a1a:
 translate japanese_pirate E3att4_cce122e6:
 
     # А "Ее изолируют, потому что она реагирует на эмоции… {w}не помню. {w}В общем да."
-    А "そいつは絶縁されてて、なぜなら感情に反応しちゃうから…{w}とかなんとか`。{w}まあそんなとこ。"
+    А "そいつは絶縁されてて、なぜなら感情に反応しちゃうから…{w}とかなんとか。{w}まあそんなとこ。"
 
 # game/script.rpy:1547
 translate japanese_pirate E3att4_cbbe3b93:
@@ -2023,7 +2023,7 @@ translate japanese_pirate E3att4_e102d1e9:
 translate japanese_pirate E3att4_53bbe73f:
 
     # Л "Нет! {w}… {w}ну вообще да, но на самом деле у меня есть цель."
-    Л "違う！{w}…{w}いや、まあ、そうね、でもまだ私には目指してる目標があるの。"
+    Л "違う！{w}…{w}いや、まあ、そうね、{w}でもまだ私には目指してる目標があるの。"
 
 # game/script.rpy:1556
 translate japanese_pirate E3att4_2e832e75:
@@ -2047,7 +2047,7 @@ translate japanese_pirate E3att4_e8a977ee:
 translate japanese_pirate E3att4_ff070700:
 
     # Л "Было бы классно, но все еще чуть попроще."
-    Л "それもイイなー。でももっと野心の小さなことっていうか。"
+    Л "それもイイなー。でももっともっと野心の小さなことっていうか。"
 
 # game/script.rpy:1560
 translate japanese_pirate E3att4_80a0326b:
@@ -2059,7 +2059,7 @@ translate japanese_pirate E3att4_80a0326b:
 translate japanese_pirate E3att4_e128453a:
 
     # А "Настолько проще?! {w}И только ради этого ты устроилась работать?!"
-    А "そんなの野心もクソもないだろ！{w}あんた本当にそれだけのために仕事についたの？！"
+    А "そんなの野心ゼロだろ！{w}あんた本当にそれだけのために仕事についたの？！"
 
 # game/script.rpy:1567
 translate japanese_pirate E3att4_618afbf4:
@@ -2071,7 +2071,7 @@ translate japanese_pirate E3att4_618afbf4:
 translate japanese_pirate E3att4_a1badde6:
 
     # Л "У меня есть коллекция из всех DVD-изданий, блю-рэй, а также куча фанатских додзин-игр! {w}И все официальные фигурки! {w}Я не пропускаю ни одной!"
-    Л "それにコレクションだって！{w}DVD版にBlu-rayディスクに、同人ゲームもいっぱいあるし！{w}それに出てる全部の公式フィギュアも！{w}一つも逃がしたことないんだから！"
+    Л "それにコレクションだって！{w}DVD版にブルーレイ版に、同人ゲームもいっぱいあるし！{w}それに出てる全部の公式フィギュアも！{w}一つも逃がしたことないんだから！"
 
 # game/script.rpy:1569
 translate japanese_pirate E3att4_96c23571:
@@ -2107,7 +2107,7 @@ translate japanese_pirate E3att4_e71fdb39:
 translate japanese_pirate E3att4_93f17e6f:
 
     # А "Твоя отаку-аура меня пугает..."
-    А "あんたのオタクパワーはおっかないわね。"
+    А "あんたのオタクっ気はおっかないわね。"
 
 # game/script.rpy:1581
 translate japanese_pirate E3att4_94e3c591:
@@ -2143,7 +2143,7 @@ translate japanese_pirate E3att4_95fbb07f:
 translate japanese_pirate E3att4_b66f0547:
 
     # А "Да нет же! {w}Я про другое."
-    А "それは絶対ない！{w}それが言いたかったんじゃなくて......。"
+    А "それは絶対ない！{w}そう言いたかったんじゃなくて......。"
 
 # game/script.rpy:1608
 translate japanese_pirate E3att4_ab92d1c7:
@@ -2177,9 +2177,8 @@ translate japanese_pirate E3att4_c53eed84:
 
 # game/script.rpy:1613
 translate japanese_pirate E3att4_6a57afe8:
-
     # А "После школы они тут же отправили меня в кулинарный колледж, но меня оттуда быстро выгнали."
-    А "親は高校を卒業してすぐ私を料理の専門学校に入れたんだけど、私はそこをめちゃくちゃすぐに退学した。"
+    А "親は高校を卒業してすぐ私を料理の専門学校に入れたんだけど、私はそこに入るないなやすぐに退学した。"
 
 # game/script.rpy:1614
 translate japanese_pirate E3att4_86f7b772:
@@ -2221,7 +2220,7 @@ translate japanese_pirate E3att4_fb3a329f:
 translate japanese_pirate E3att4_8cb46576:
 
     # "Мы вернулись в офис и сдали оборудование, а после разошлись по домам. {w}Форму же пришлось забирать с собой, потому что прачечная в офисе не предусмотрена."
-    "私たちはオフィスに戻り、装備を返却して、帰宅の途についた。{w}私は制服を持ち帰らなくちゃいけなかった。仕事場には洗濯室がなかったから。"
+    "私たちはオフィスに戻り、装備を返却して、帰宅の途についた。{w}私は制服を持ち帰らなくちゃいけなかった。{w}仕事場には洗濯室がなかったから。"
 
 # game/script.rpy:1640
 translate japanese_pirate E3att4_612cb553:
@@ -2251,7 +2250,7 @@ translate japanese_pirate E3att4_ee66cf62:
 translate japanese_pirate E3att4_73b272fc:
 
     # Л "Эм… {w}ладно. {w}Где он?"
-    Л "そう...{w}わかった。{w}どこなの？"
+    Л "ふぅん...{w}わかった。{w}どこなの？"
 
 # game/script.rpy:1645
 translate japanese_pirate E3att4_5559c50c:
@@ -2305,7 +2304,7 @@ translate japanese_pirate E3att4_550087f3:
 translate japanese_pirate E3att4_6094ae5a:
 
     # "Директор посмотрел на меня, но не сказал ни слова."
-    "CEOは何も言わず私を見た。"
+    "CEO は何も言わず私を見た。"
 
 # game/script.rpy:1664
 translate japanese_pirate E3att4_cda12375:
@@ -2317,7 +2316,7 @@ translate japanese_pirate E3att4_cda12375:
 translate japanese_pirate E3att4_8685a44e:
 
     # "Директор задрожал."
-    "CEOは震えだした。"
+    "CEO は震えだした。"
 
 # game/script.rpy:1675
 translate japanese_pirate E3att4_7d21a2a8:
@@ -2383,7 +2382,7 @@ translate japanese_pirate E3att4_6c8e357a:
 translate japanese_pirate E3att4_3c48958d:
 
     # "Я вытянула руку и успела схватить падающего директора за хвост."
-    "私は落ちていくCEOのしっぽをなんとかつかんだ。"
+    "私は落ちていく CEO のしっぽをなんとかつかんだ。"
 
 # game/script.rpy:1700
 translate japanese_pirate E3att4_c3c4cf4e:
@@ -2401,7 +2400,7 @@ translate japanese_pirate E3att4_71121928:
 translate japanese_pirate E3att4_01718fec:
 
     # "Кот, как и подобает коту, приземлился на лапы, а я больно стукнулась головой."
-    "あなたのご想像通り、猫は4本の脚できれいに着地した。{w}一方私は、地面に頭を打った。"
+    "あなたの想像してた通り、猫は4本の脚できれいに着地した。{w}一方私は、地面に頭を打った。"
 
 # game/script.rpy:1710
 translate japanese_pirate E3att4_0e2b5143:
@@ -2419,7 +2418,7 @@ translate japanese_pirate E3att4_31a8eb73:
 translate japanese_pirate E3att4_ba42261b:
 
     # "Я взглянула было на директора, но тот уже скрылся за забором."
-    "私は目でCEOを探したが、彼はすでにフェンスの影に姿を消していた。"
+    "私は目で CEO を探したが、彼はすでにフェンスの影に姿を消していた。"
 
 # game/script.rpy:1719
 translate japanese_pirate E3att4_d5cbbed2:
@@ -2498,7 +2497,7 @@ translate japanese_pirate E3att4_9e991b17:
 
     # Ма "Это все объясняет… {w}Ну, тоже хорошая профессия. {w}Будешь улицы в чистоте держать. {w}В кой-то веки убираться научишься."
     Ма "なるほど、それで説明がつくわね......。{w}まあ、いい職業じゃない。{w}私たちの町をきれいにしてくれるわけでしょう？"
-    Ма "それに仕事の癖がうつってあなたも生活態度を改めるかもしれないわ。"
+    Ма "それに仕事で癖がついてあなたも生活態度を改めるかもしれないわ。"
 
 # game/script.rpy:1743
 translate japanese_pirate E3att4_aa7b68b5:
@@ -2516,7 +2515,7 @@ translate japanese_pirate E3att4_35c53639:
 translate japanese_pirate E3att4_b1e4148a:
 
     # "Утром меня разбудил звонок. {w}Не открывая глаз, я нащупала телефон и сбросила вызов. {w}Но через пару секунд телефон снова раздражающе зажужжал."
-    "次の朝、私はケータイが鳴る音で目が覚めた。{w}私は目を開けず手探りでケータイを探すと、通話を切った。{w}でも何秒かするとまたうるさい着信音が再開した。"
+    "次の朝、私はケータイが鳴る音で目が覚めた。{w}私は目を開けず手探りでケータイを探すと、通話を切った。{w}でも何秒かするとまたうるさいベルの音が再開した。"
 
 # game/script.rpy:1794
 translate japanese_pirate E3att4_f44e62ab:
@@ -2582,7 +2581,7 @@ translate japanese_pirate E3att4_3375f67d:
 translate japanese_pirate E3att4_48380abc:
 
     # Ма "Аж вприпрыжку бежит. {w}Вот что значит любить работу…"
-    Ма "あんなに飛んだり跳ねたりして。{w}よっぽど仕事が気に入ったみたいね......"
+    Ма "あんなに飛んだり跳ねたりして。{w}よっぽど仕事が気に入ったみたいね......。"
 
 # game/script.rpy:1816
 translate japanese_pirate E3att4_436320fc:
@@ -2630,7 +2629,7 @@ translate japanese_pirate E3att4_2ac402fb:
 translate japanese_pirate E3att4_8af73818:
 
     # "Я крутила головой, выискивая единственную знакомую среди пассажиров, но ее нигде не было. {w}Что ж, делать нечего."
-    "私は頭を左右に振り、会社の唯一の顔なじみを乗客の中から探そうとした、でも彼女はどこにも見つからなかった。{w}まあ仕方ない。"
+    "私は頭を左右に振り、会社の唯一の顔見知りを乗客の中から探そうとした、でも彼女はどこにも見つからなかった。{w}まあ仕方ない。"
 
 # game/script.rpy:1834
 translate japanese_pirate E3att4_48597944:
@@ -2762,13 +2761,13 @@ translate japanese_pirate E3att4_dd7e6de0:
 translate japanese_pirate E3att4_b8b901ee:
 
     # И "Но сейчас все безопасно. {w}Мы сделали выводы."
-    И "でも今日の私らの装備はもう安全だ。{w}必要な計測は全部やったからね。"
+    И "でも今日の私たちの装備はもう安全だ。{w}必要な計測は全部やったからね。"
 
 # game/script.rpy:1859
 translate japanese_pirate E3att4_9152d8ab:
 
     # Л "Хочется верить…"
-    Л "本当に私もそう願いますけど......"
+    Л "本当に私もそう願いますけど......。"
 
 # game/script.rpy:1860
 translate japanese_pirate E3att4_1c4b81fe:
@@ -2780,7 +2779,7 @@ translate japanese_pirate E3att4_1c4b81fe:
 translate japanese_pirate E3att4_bf30f437:
 
     # Л "Спасибо за утешение…"
-    Л "お気遣いどうも......"
+    Л "お気遣いどうも......。"
 
 # game/script.rpy:1866
 translate japanese_pirate E3att4_7dd8c73c:
@@ -2852,7 +2851,7 @@ translate japanese_pirate E3att4_dab042fc:
 translate japanese_pirate E3att4_7c45ade9:
 
     # И "П-поработаешь здесь в две смены три г-года..."
-    И "一日に、二交代のシフトで3年働いたら君もそうなるよ......"
+    И "一日に、二交代のシフトで3年働いたら君もそうなるよ......。"
 
 # game/script.rpy:1878
 translate japanese_pirate E3att4_7d0bbe57:
@@ -2882,7 +2881,7 @@ translate japanese_pirate E3att4_30f3535e:
 translate japanese_pirate E3att4_df726a0f:
 
     # И "Боже, как я устала..."
-    И "神様、私は疲れたよ......"
+    И "神様、私は疲れたよ......。"
 
 # game/script.rpy:1890
 translate japanese_pirate E3att4_78522a8f:
@@ -2972,7 +2971,7 @@ translate japanese_pirate E3att4_3d2f8a54:
 translate japanese_pirate E3att4_d56ebf1a:
 
     # Л "(Погодите-ка… {w}а те взрывы…)"
-    Л "（ちょっと待って...{w} この爆発.......）"
+    Л "（ちょっと待って...{w} この爆発.......。）"
 
 # game/script.rpy:1916
 translate japanese_pirate E3att4_dfd93603:
@@ -3045,19 +3044,19 @@ translate japanese_pirate E3att4_2a1856f4:
 translate japanese_pirate E3att4_50c6ead1:
 
     # И "Нет. {w}Только грустные."
-    И "いや、{w}悲しいやつしかない。"
+    И "いや、{w}悲しいものしかない。"
 
 # game/script.rpy:1934
 translate japanese_pirate E3att4_a81ffad9:
 
     # И "Правда, этой функцией мало кто пользуется почему-то..."
-    И "正直なところ、うちの仲間はほとんどこの機能を使ってないんだ...."
+    И "正直なところ、うちの仲間はほとんどこの機能を使ってないんだ......。"
 
 # game/script.rpy:1935
 translate japanese_pirate E3att4_5a2cbe65:
 
     # Л "Интересно почему..."
-    Л "どうして......"
+    Л "どうして......。"
 
 # game/script.rpy:1936
 translate japanese_pirate E3att4_65d23ba9:
@@ -3081,7 +3080,7 @@ translate japanese_pirate E3att4_ef6b7343:
 translate japanese_pirate E3att4_8da9cfce:
 
     # Л "(Ну почему оно не издает каких-нибудь более приятных звуков?! {w}И где спецэффекты? {w}Где блестки? {w}Я хочу блестки! {w}Я не хочу контузию!)"
-    Л "（どうしてもっと心地よい音にできないの？！{w}それにVFXはどこ？{w}キラキラはどこ？{w}私はキラキラが欲しいの！{w}ケガなんてしたくない！）"
+    Л "（どうしてもっと心地よい音にできないの？！{w}それに VFX はどこ？{w}キラキラはどこ？{w}私はキラキラが欲しいの！{w}ケガなんてしたくない！）"
 
 # game/script.rpy:1940
 translate japanese_pirate E3att4_ac1e4758:
@@ -3093,7 +3092,7 @@ translate japanese_pirate E3att4_ac1e4758:
 translate japanese_pirate E3att4_0a09c2f8:
 
     # Л "Эм… {w}нет. {w}Хотя есть один. {w}А я могу летать с помощью этого жезла? {w}Ну… {w}как настоящая девочка-волшебница?"
-    Л "うぅん。{w}ないです。{w}ああでも一つだけ。{w}このステッキを使って飛ぶことってできませんか？{w}つまり、本当の魔法少女みたいに...."
+    Л "うぅん。{w}ないです。{w}ああでも一つだけ。{w}このステッキを使って飛ぶことってできませんか？{w}つまり、本当の魔法少女みたいに......。"
 
 # game/script.rpy:1942
 translate japanese_pirate E3att4_5e80c50b:
@@ -3135,7 +3134,7 @@ translate japanese_pirate E3att4_9cce267e:
 translate japanese_pirate E3att4_e6cb589d:
 
     # "Вместе с деревушкой разрушились и все мои мечты о работе девочкой-волшебницей."
-    "私の魔法少女になる夢もその村と共にすべて破壊された。"
+    "私の魔法少女になる夢もその村と共にすべて崩れさった。"
 
 # game/script.rpy:1960
 translate japanese_pirate E3att4_976e3f83_1:
@@ -3483,19 +3482,19 @@ translate japanese_pirate defeat_1d30bf32:
 translate japanese_pirate victory_324d354f:
 
     # "Дикая Керти побеждена!"
-    "やせいのカーティ は打ち負かされた！"
+    "やせいのカーティ はたおれた！"
 
 # game/script.rpy:2635
 translate japanese_pirate victory_762f2b83:
 
     # "Я уединилась на склоне подальше от бойни и достала из пакета сухпаек."
-    "私は紛争地帯から離れた斜面の静かな場所に移動し、箱から弁当を取り出した。"
+    "私は紛争地帯から遠く離れた斜面に一人座り込んで昼食を袋から取り出した。"
 
 # game/script.rpy:2636
 translate japanese_pirate victory_9f685631:
 
     # "Он был небольшой и состоял из сэндвича с колбасой и сыром, шоколадного батончика и бутылки сока."
-    "それは小さく、ソーセージとチーズのサンドイッチとチョコレートバー、そしてジュースの瓶で構成されていた。"
+    "それは小さく、ボローニャ風ソーセージとチーズのサンドイッチ、チョコレートバー、それにジュースの瓶が入っていた。"
 
 # game/script.rpy:2637
 translate japanese_pirate victory_43e713cd:
@@ -3603,7 +3602,7 @@ translate japanese_pirate victory_f43b9fde:
 translate japanese_pirate victory_b4e1bc3b:
 
     # А "Я всего лишь взяла то, что валялось без присмотра."
-    А "私は誰も必要じゃないのを取っただけで。"
+    А "私は誰も取ってなかった余りを取っただけで。"
 
 # game/script.rpy:2667
 translate japanese_pirate victory_54e1a978:
@@ -3705,7 +3704,7 @@ translate japanese_pirate victory_f0c04c59:
 translate japanese_pirate victory_864e8f1f:
 
     # А "К сожалению, да. {w}Жили неподалеку, учились в одной школе. {w}Потом я перевелась, и мы больше не виделись."
-    А "そうなのよ、不幸なことに、。{w}近所に住んでて一緒の学校に通ってた。{w}その後私が引っ越して、それからは会ってなかったんだけど。"
+    А "そうなのよ、不幸なことに。{w}近所に住んでて一緒の学校に通ってた。{w}その後私が引っ越して、それからは会ってなかったんだけど。"
 
 # game/script.rpy:2714
 translate japanese_pirate victory_e1cb3087:
@@ -3729,7 +3728,7 @@ translate japanese_pirate victory_c08749d0:
 translate japanese_pirate victory_f815a038:
 
     # Л "Это злоупотребление полномочиями…"
-    Л "それって職権濫用じゃあ....."
+    Л "それって職権濫用じゃあ.....。"
 
 # game/script.rpy:2721
 translate japanese_pirate victory_a47f0b00:
@@ -3759,7 +3758,7 @@ translate japanese_pirate victory_cc82853e:
 translate japanese_pirate victory_739dd2ca:
 
     # Л "Вот, возьми. {w}Я уже наелась."
-    Л "はい。{w}私、もういいんで。"
+    Л "はい。{w}私、もういいですから。"
 
 # game/script.rpy:2727
 translate japanese_pirate victory_9e32118c:
@@ -3771,7 +3770,7 @@ translate japanese_pirate victory_9e32118c:
 translate japanese_pirate victory_1bafe797:
 
     # Л "Ну как хочешь. {w}Тогда…"
-    Л "まぁ、どっちでもいいですけど。。"
+    Л "まぁ、どっちでもいいですけど。{w}じゃあ......"
 
 # game/script.rpy:2729
 translate japanese_pirate victory_48e228df:
@@ -3885,7 +3884,7 @@ translate japanese_pirate victory_ef2a1147:
 translate japanese_pirate victory_4cbea057:
 
     # Л "(Понятно, почему тебя никто на работу не берет…)"
-    Л "（アヤが誰にも雇われないわけがわかるなぁ.......）"
+    Л "（アヤがどこにも雇われないわけがわかるわ.......。）"
 
 # game/script.rpy:2765
 translate japanese_pirate victory_bca98701:
@@ -4077,7 +4076,7 @@ translate japanese_pirate victory_3b0f38a5:
 translate japanese_pirate victory_7b3d2773:
 
     # Л "(Черт! {w}Учили же меня фильмы ужасов…)"
-    Л "（なによ！{w}私、あんなにホラー映画を見たのに何も学ばなかったわけ....？)"
+    Л "（なによ！{w}私、あんなにホラー映画を見て何を学んできたの....？)"
 
 # game/script.rpy:2839
 translate japanese_pirate victory_0c503e28:
@@ -4119,7 +4118,7 @@ translate japanese_pirate victory_c2245c73:
 translate japanese_pirate victory_8378730e:
 
     # "Останавливаться было поздно. {w}Я делала шаг за шагом, раздвигая листву жезлом, и не заметила, как под ноги попалась крупная ветка."
-    "もうやめるには遅過ぎた。{w}生い茂った草木をステッキでかき分けながら一歩一歩進んだ。そして不意に、どうやってか自分でもわからずに、太い枝につまづいてしまった。"
+    "もう引き返すには遅過ぎた。{w}生い茂った草木をステッキでかき分けながら一歩一歩進んだ。そして不意に、どうやってか自分でもわからずに、太い枝につまづいてしまった。"
 
 # game/script.rpy:2853
 translate japanese_pirate victory_b817e69b:
@@ -4131,7 +4130,7 @@ translate japanese_pirate victory_b817e69b:
 translate japanese_pirate victory_7de9ae28:
 
     # "Пролетев метров десять, я грохнулась на небольшой куст."
-    "10mほどの飛行のあと、私は小さな茂みに着陸した。"
+    "10m ほどの飛行のあと、私は小さな茂みに着陸した。"
 
 # game/script.rpy:2859
 translate japanese_pirate victory_2726058f:
@@ -4143,7 +4142,7 @@ translate japanese_pirate victory_2726058f:
 translate japanese_pirate victory_16d4d66f:
 
     # Л "…….."
-    Л "…….."
+    Л "……"
 
 # game/script.rpy:2861
 translate japanese_pirate victory_1ba5b511:
@@ -4215,7 +4214,7 @@ translate japanese_pirate victory_0fa0f83a:
 translate japanese_pirate victory_bc6a8324:
 
     # З "Она молодец, очень храбро сопротивлялась! {w}Мне даже пришлось повозиться."
-    З "彼女には驚嘆しましたよ！{w}非常に勇気ある抵抗をしてくれました！彼女を制圧するためには多くの労力を費やさせられましたよ。"
+    З "彼女には驚嘆しましたよ！{w}非常に勇気ある抵抗をしてくれました！彼女を制圧するためには多くの労力を費やさせられました。"
 
 # game/script.rpy:2886
 translate japanese_pirate victory_5502463d:
@@ -4265,7 +4264,7 @@ translate japanese_pirate victory_5d5587d7:
 translate japanese_pirate victory_3d77dc7d:
 
     # З "Но мне не нравится, когда меня называют Зак-Маньяк. {w}Так что попрошу звать меня Таинственный Зак. {w}Или просто Зак. {w}Хотя мы слишком мало знакомы, чтобы называть друг друга по имени…"
-    З "おぉ、しかし私は変態ザックと呼ばれるのは好きではないんだ。{w}なのでどうか「ミステリアス・ザック」、あるいはただザックと呼んではくれないだろうか。{w}とはいえ私たちはまだお互いのことをほとんど知らない。"
+    З "おぉ、しかし私は変態ザックと呼ばれるのは好きではないのです。{w}なのでどうか「ミステリアス・ザック」、あるいはただザックと呼んではくれないだろうか。{w}とはいえ私たちはまだお互いのことをほとんど知らない。"
     З "そう考えるといきなり名前で呼び合うのはいささか奇妙なことになるだろうか....."
 
 # game/script.rpy:2919
@@ -4380,7 +4379,7 @@ translate japanese_pirate victory_dc584bb8:
 translate japanese_pirate victory_e38f7ba3:
 
     # З "Замечательно! {w}Вы не представляете, как я вам благодарен!"
-    З "マニフィック！{w}僕がどれだけ感謝しているか君には想像もつかないでしょう！"
+    З "マニフィック！{w}僕がどれだけ感謝しているか君には想像もつかないだろう！"
 
 # game/script.rpy:2958
 translate japanese_pirate victory_cc11f599:
@@ -4392,7 +4391,7 @@ translate japanese_pirate victory_cc11f599:
 translate japanese_pirate victory_da5761ae:
 
     # З "И еще коробку за спиной, будьте добры. {w}Боюсь, без нее жезлы работать не будут."
-    З "おっと、それから背中の箱もお願いしたい。{w}残念ながらそれなしにはステッキは動かないでしょうから。"
+    З "おっと、それから背中の箱もお願いしたい。{w}残念ながらそれなしにはステッキは動かないだろうから。"
 
 # game/script.rpy:2963
 translate japanese_pirate victory_9b645cdd:
@@ -4457,7 +4456,7 @@ translate japanese_pirate victory_117cadbd:
 translate japanese_pirate victory_aabb10c4:
 
     # З "Еще раз искренне прошу прощения за неудудобства. {w}Надеюсь, еще свидимся!"
-    З "改めて、もし私が何かご迷惑をおかけしていたら心よりお詫び申し上げましょう。{w}もう一度会えると願っているよ！"
+    З "改めて、もし私が何かご迷惑をおかけしていたら心よりお詫び申し上げたい。{w}もう一度会えると願っているよ！"
 
 # game/script.rpy:2983
 translate japanese_pirate victory_4c510180:
@@ -4481,19 +4480,19 @@ translate japanese_pirate victory_ed8ebbbf:
 translate japanese_pirate victory_54588ab2:
 
     # А "А… {w}а...э-э…. {w}а….. {w}д-д-д-да… {w}Н-н-наверное……."
-    А "あ....{w}あ....うぅ....{w}あ....{w}う、う、う、うん....。{w}大丈夫だと思う....."
+    А "あ....{w}あ....うぅ....{w}あ....{w}う、う、う、うん....。{w}大丈夫だと思う......。"
 
 # game/script.rpy:2992
 translate japanese_pirate victory_6febe58e:
 
     # Л "Слава богу. {w}Давай выбираться отсюда побыстрее."
-    Л "神様ありがとう。{w}ここから外にでましょう。"
+    Л "神様ありがとう。{w}はやくここから外に出よう。"
 
 # game/script.rpy:3006
 translate japanese_pirate victory_4d073974:
 
     # А "А звезды красивые... {w}оказывается..."
-    А "星がこんなにきれいだなんて........{w}考えたこともなかった....."
+    А "星がこんなにきれいだなんて........{w}考えたこともなかった.....。"
 
 # game/script.rpy:3047
 translate japanese_pirate victory_49d50967:
@@ -4944,7 +4943,7 @@ translate japanese_pirate victory_c02d8875:
 translate japanese_pirate victory_8032b636:
 
     # Л "Эм-м-м......."
-    Л "うーーーん....."
+    Л "うーーーん.....。"
 
 # game/script.rpy:3192
 translate japanese_pirate victory_fcba44af:
@@ -4998,7 +4997,7 @@ translate japanese_pirate victory_e87df371:
 translate japanese_pirate victory_8ab9f2a5:
 
     # Л "Не надо!"
-    Л "呼ばないでって！"
+    Л "いらないって！"
 
 # game/script.rpy:3263
 translate japanese_pirate victory_2ca6fdd9:
@@ -5016,7 +5015,7 @@ translate japanese_pirate victory_68b8ba5f:
 translate japanese_pirate victory_b8e8f7ff:
 
     # "Почти вслепую я доковыляла до ванной, приняла освежающий душ и умылась. {w}Засунула в рюкзак только что высохшую после стирки униформу и наконец спустилась на кухню за завтраком."
-    "私は浴室まで半分目を閉じたまま千鳥足で歩き、さわやかなシャワーを浴びて、顔を洗った。{w}そして乾いたばかりの制服をかばんに詰め込み、やっと朝食のために下に降りた。"
+    "私は浴室まで半分目を閉じたまま千鳥足で歩き、目覚めのシャワーを浴びて、顔を洗った。{w}そして乾いたばかりの制服をかばんに詰め込み、やっと朝食のために下に降りた。"
 
 # game/script.rpy:3268
 translate japanese_pirate victory_dd8af495:
@@ -5058,7 +5057,7 @@ translate japanese_pirate victory_d075ed2a:
 translate japanese_pirate victory_1095729f:
 
     # Л "Угу."
-    Л "はいはい......"
+    Л "はいはい......。"
 
 # game/script.rpy:3276
 translate japanese_pirate victory_0d1bc794:
@@ -5256,7 +5255,7 @@ translate japanese_pirate victory_519dd4ce:
 translate japanese_pirate victory_cbc797bf:
 
     # Л "(Погодите, может, я смогу как-то разрулить ситуацию. {w}В конце концов, не мы виноваты. {w}Нас ограбили. {w}Это должно быть смягчающим обстоятельством!)"
-    Л "（待って、まだなんとかなる可能性はある。{w}結局、私らの過失じゃなくて、{w}私たちは盗まれただけなんだから。{w}それは情緒酌量の要因になるはず！）"
+    Л "（待って、まだなんとかなる可能性はある。{w}結局、私らの過失じゃなくて、{w}私たちは盗まれただけなんだから。{w}それは情緒酌量の理由になるはず！）"
 
 # game/script.rpy:3385
 translate japanese_pirate victory_1b4a4a09:
@@ -5274,7 +5273,7 @@ translate japanese_pirate victory_e7d1dfcd:
 translate japanese_pirate victory_2665f9c1:
 
     # Л "(Но доказательств-то нет! {w}Никаких!)"
-    Л "（でも、証拠となるものは何もない！まったく！！！）"
+    Л "（でも、証拠になるようなものは何もない！まったく！！！）"
 
 # game/script.rpy:3392
 translate japanese_pirate victory_5155291c:
@@ -5304,7 +5303,7 @@ translate japanese_pirate victory_98eda490:
 translate japanese_pirate victory_11e0cab9:
 
     # Л "(А может быть, я зря так тороплюсь?)"
-    Л "（急いでまでここに来て本当かったの？）"
+    Л "（急いでまでここに来て本当によかったの？）"
 
 # game/script.rpy:3400
 translate japanese_pirate victory_d9f8981c:
@@ -5358,13 +5357,13 @@ translate japanese_pirate victory_3178fa50:
 translate japanese_pirate victory_6788b6fc:
 
     # "Оглянувшись, я сразу вспомнила это место: большой стеклянный купол, полки с книгами и огромный стол из красного дерева — нас привели в кабинет директора."
-    "周りを見回して、すぐにその場所を思い出した。巨大なガラスの丸天井、本棚、赤い木でできた巨大な机。私たちはCEOの部屋にいた。"
+    "周りを見回して、すぐにその場所を思い出した。巨大なガラスの丸天井、本棚、赤い木でできた巨大な机。私たちは CEO の部屋にいた。"
 
 # game/script.rpy:3439
 translate japanese_pirate victory_a6a57d4b:
 
     # "Сам же директор был привязан к креслу. {w}Неподалеку от меня сидела тетя-администратор, которая гневно что-то мычала через ленту, приклеенную на ее рот."
-    "CEO自身も、自分の椅子の上で縛られていた。{w}例の受付の女職員は私の隣に座っていて、口に貼られたテープごしに何か怒ってぶつぶつ言っていた。"
+    "CEO 自身も、自分の椅子の上で縛られていた。{w}例の受付の女職員は私の隣に座っていて、口に貼られたテープごしに何か怒ってぶつぶつ言っていた。"
 
 # game/script.rpy:3441
 translate japanese_pirate victory_5a376c93:
@@ -5430,13 +5429,13 @@ translate japanese_pirate victory_c0620c79:
 translate japanese_pirate victory_d038386f:
 
     # З "Так вот. {w}Прошу прощения за неудобства, но, понимаете, мне так проще работать. {w}Я тут вот по какому делу."
-    З "さぁて、どこまで話したのでしたかな？{w}ああ、そうでした、皆さまご不便をお詫び申し上げます。{w}しかし、これも仕事を簡単にするためなのでして。そうしたらなぜ私がここにいるか説明させていただきたい。"
+    З "さぁて、どこまで話したのだったか？{w}ああ、そうだ、皆さまにはご不便をかけて大変申し訳ない。{w}しかし、これも仕事を簡単にするためなんだ。{w}そうしたらなぜ私がここにいるか説明させていただこうか。"
 
 # game/script.rpy:3466
 translate japanese_pirate victory_41fd8803:
 
     # З "Мне очень приглянулись ваши разработки, и я бы тоже хотел себе несколько таких волшебных палочек."
-    З "僕は君たちの道具が気に入ってね、自分のためにいくつかもらっておこうと考えたんだ。"
+    З "僕は君たちの道具が気に入ってね、{w}自分のためにいくつかもらっておこうと考えたんだ。"
 
 # game/script.rpy:3468
 translate japanese_pirate victory_8e35c3f4:
@@ -5454,7 +5453,7 @@ translate japanese_pirate victory_b4db3d6d:
 translate japanese_pirate victory_faffcb1e:
 
     # З "Я позаимствовал у вас пару экземпляров, но, к превеликому сожалению, они не работают."
-    З "君たちからこれを拝借させていただいたんだが、非常に残念ながら、どうも動かないようでね。"
+    З "君たちからこれを拝借させていただいたんだが、非常に悲しいことに、どうも動かないようでね。"
 
 # game/script.rpy:3471
 translate japanese_pirate victory_0bb4a9d9:
@@ -5490,7 +5489,7 @@ translate japanese_pirate victory_fa6a6ac7:
 translate japanese_pirate victory_8983a9fa:
 
     # З "Я пришел, чтобы получить от вас необходимые ключи от палочек. {w}Ну, чтоб они работали, понимаете? {w}Понимаете ведь, директор?"
-    З "それで僕はここにステッキのカギを取りに来たというわけなんだ。{w}ステッキを動作させるための、わかるだろう？{w}ご理解いただけたかな、ムッシューCEO？"
+    З "そう、それで僕はここにステッキのカギを取りに来たというわけなんだ。{w}ステッキを動作させるための、わかるだろう？{w}ねえ、ご理解いただけたかな？ムッシュー CEO？"
 
 # game/script.rpy:3491
 translate japanese_pirate victory_d3553085:
@@ -5508,7 +5507,7 @@ translate japanese_pirate victory_9fe648b1:
 translate japanese_pirate victory_355d7569:
 
     # З "Кхм! {w}Так вот. {w}Господин директор, вы понимаете, о чем я вас прошу. {w}Я бы хотел получить это как можно скорее, а то время поджимает. {w}Тик-так."
-    З "エヘン！{w}とにかく、{w}ムッシューCEO、私が何を求めているかは理解いただけたでしょう。{w}なるべく早く手にいれたいんだ。私には時間がないからね。チクタク。"
+    З "エヘン！{w}とにかく、{w}ムッシュー CEO、私が何を求めているかは理解いただけたでしょう。{w}なるべく早く手にいれたいんだ。私には時間がないからね。チクタク。"
 
 # game/script.rpy:3504
 translate japanese_pirate victory_40de5c6d:
@@ -5520,13 +5519,13 @@ translate japanese_pirate victory_40de5c6d:
 translate japanese_pirate victory_04032241:
 
     # "Директор продолжал молча сидеть."
-    "CEOは無言のままただそこに座っていた。"
+    "CEO は無言のままただそこに座っていた。"
 
 # game/script.rpy:3507
 translate japanese_pirate victory_0ef6cae1:
 
     # З "Тогда придется убивать заложников по одному."
-    З "さもなければ、僕は人質を一人ずつ殺していかなきゃいけなくなってしまう。"
+    З "さもなければ、僕は人質を一人ずつ殺していかなければいけなくなってしまう。"
 
 # game/script.rpy:3515
 translate japanese_pirate victory_9b1af2bd:
@@ -5544,13 +5543,13 @@ translate japanese_pirate victory_796d99a4:
 translate japanese_pirate victory_1eee9085:
 
     # З "Давайте, директор. {w}Я долго ждать не собираюсь."
-    З "さぁ、ムッシューCEO。{w}私はあまり長くは待てません。"
+    З "さぁ、ムッシュー CEO。{w}私はあまり長くは待てません。"
 
 # game/script.rpy:3530
 translate japanese_pirate victory_bd3428b9:
 
     # З "Эй! {w}Давайте без фокусов."
-    З "おい！{w}ふざけたマネはよしてくれ。"
+    З "おい！{w}ふざけたマネはよせ。"
 
 # game/script.rpy:3533
 translate japanese_pirate victory_760eacf4:
@@ -5562,13 +5561,13 @@ translate japanese_pirate victory_760eacf4:
 translate japanese_pirate victory_611f3c6a:
 
     # З "Неважно..."
-    З "まあいい......"
+    З "まあいいさ......"
 
 # game/script.rpy:3542
 translate japanese_pirate victory_489504e4:
 
     # "Директор подошел к шкафу с книгами и вдавил одну из них внутрь."
-    "CEOは本棚へ行き、その本のうち一つを押した、"
+    "CEO は本棚へ行き、その本のうち一つを押した、"
 
 # game/script.rpy:3556
 translate japanese_pirate victory_5b74b321:
@@ -5580,25 +5579,25 @@ translate japanese_pirate victory_5b74b321:
 translate japanese_pirate victory_1d6a0564:
 
     # "Директор направился к Заку, но тот его остановил."
-    "CEOはザックへ向かって歩き始めた。しかしザックは身振りでそれを制した。"
+    "CEO はザックへ向かって歩き始めた。しかしザックは身振りでそれを制した。"
 
 # game/script.rpy:3558
 translate japanese_pirate victory_dc5dc3bb:
 
     # З "Не подходите ближе. {w}Бросьте чип оттуда, где стоите."
-    З "それ以上近づかないで。{w}そこに立ったままチップを投げてください。"
+    З "それ以上近づくんじゃない。{w}そこに立ったままチップを投げるんだ。"
 
 # game/script.rpy:3559
 translate japanese_pirate victory_9eab9673:
 
     # "Директор подкинул чип в воздух, и он отправился прямиком в руки к Заку. {w}Зак осмотрел аккумулятор и вставил чип в подходящий паз."
-    "CEOはチップを宙に投げ、そしてそれはザックの手の中に収まった。{w}ザックはバッテリーを調べて対応するスロットにチップを挿入した。"
+    "CEO はチップを宙に投げ、そしてそれはザックの手の中に収まった。{w}ザックはバッテリーを調べて形に合うスロットにチップを挿入した。"
 
 # game/script.rpy:3560
 translate japanese_pirate victory_50a2d337:
 
     # З "Это все? {w}Благодарствую, директор!"
-    З "これでいいのかな？{w}メルシーボクー、ムッシューCEO！"
+    З "これでいいのかな？{w}メルシーボクー、ムッシュー CEO！"
 
 # game/script.rpy:3562
 translate japanese_pirate victory_fd6d56bc:
@@ -5610,7 +5609,7 @@ translate japanese_pirate victory_fd6d56bc:
 translate japanese_pirate victory_89bdcc7e:
 
     # "Он попытался еще раз и еще раз..."
-    "彼は何度も繰り返した......"
+    "彼は何度も繰り返した......。"
 
 # game/script.rpy:3564
 translate japanese_pirate victory_36019b7f:
@@ -5622,13 +5621,13 @@ translate japanese_pirate victory_36019b7f:
 translate japanese_pirate victory_04aa5063:
 
     # З "Так… {w}И что теперь нужно, чтоб оно делало вшух-вшух, бум и прочее?"
-    З "ふむ......{w}それで、ドッカンバッカンとかビュンビュンとかをするにはどうすればいんでしょう？"
+    З "ふむ......{w}それで、ドッカンバッカンとかビュンビュンとかをするにはどうすればいんだ？"
 
 # game/script.rpy:3567
 translate japanese_pirate victory_cf5b1639:
 
     # "Директор что-то прожестикулировал лапками, пытаясь объяснить, однако Зак ничего не понял."
-    "CEOは前足を使ってジェスチャーをして彼にできる最善の説明をした。しかしザックには何も理解できなかった。"
+    "CEO は前足を使ってジェスチャーをして彼にできる最善の説明をした。しかしザックには何も理解できなかった。"
 
 # game/script.rpy:3568
 translate japanese_pirate victory_21daf4e0:
@@ -5640,7 +5639,7 @@ translate japanese_pirate victory_21daf4e0:
 translate japanese_pirate victory_aa892ea9:
 
     # З "И почему у вас вообще директор — кот? {w}У вас тут все нормально вообще?"
-    З "というか一体全体どうして君たちのCEOは猫なんだ？{w}それで会社は大丈夫なのか？"
+    З "というか一体全体どうして君たちの CEO は猫なんだ？{w}それで会社は大丈夫なのか？"
 
 # game/script.rpy:3576
 translate japanese_pirate victory_0bc93a12:
@@ -5652,7 +5651,7 @@ translate japanese_pirate victory_0bc93a12:
 translate japanese_pirate victory_ca6437f1:
 
     # З "Миледи, окажите милость, покажите, как этим пользоваться!"
-    З "マドモアゼル、どうかお願いだ、これをどう使うか教えていただけないだろうか？"
+    З "マドモアゼル、どうかお願いだ、これをどう使うか教えてくれないだろうか？"
 
 # game/script.rpy:3579
 translate japanese_pirate victory_3594b29e:
@@ -5676,7 +5675,7 @@ translate japanese_pirate victory_8a33a445:
 translate japanese_pirate victory_8b6135ce:
 
     # З "Мы уже знакомы, так что вам я доверяю и надеюсь на вашу помощь. {w}Вы же все еще помните наш уговор? {w}Одно неверное движение и…"
-    З "僕たちはもう顔見知りで、君には信頼もある、きっと協力してくれると期待しているんですよ。{w}以前の取引はまだ覚えておりますか？{w}少しでもおかしな動きをしたら......"
+    З "僕たちはもう顔見知りで、君には信頼もある、きっと協力してくれると期待しているのですよ。{w}以前の取引はまだ覚えているかな？{w}少しでもおかしな動きをしたら......"
 
 # game/script.rpy:3587
 translate japanese_pirate victory_d92fe802:
@@ -5688,7 +5687,7 @@ translate japanese_pirate victory_d92fe802:
 translate japanese_pirate victory_6d52d8a8:
 
     # Л "Надеюсь, мне выплатят компенсацию…"
-    Л "これで給料がもらえるとかならなぁ....."
+    Л "まあ最後に給料がもらえるならなんでもいいわ......。"
 
 # game/script.rpy:3595
 translate japanese_pirate victory_f0505acb:
@@ -5700,7 +5699,7 @@ translate japanese_pirate victory_f0505acb:
 translate japanese_pirate victory_8da4e096:
 
     # З "Какое счастье, что ваш директор хранит бюджет наличкой в лотке!"
-    З "君のCEOが会社の全予算を猫用トイレに隠していたのはまったく天与の恵みだ！"
+    З "君の CEO が会社の全予算を猫用トイレに隠していたのはまったく天与の恵みだ！"
 
 # game/script.rpy:3598
 translate japanese_pirate victory_b613e62e:
@@ -5712,13 +5711,13 @@ translate japanese_pirate victory_b613e62e:
 translate japanese_pirate victory_d6cdc732:
 
     # "Директор грустно вздохнул."
-    "CEOは悲しげにため息をついた。"
+    "CEO は悲しげにため息をついた。"
 
 # game/script.rpy:3601
 translate japanese_pirate victory_87804005:
 
     # Л "(Кого я спрашиваю?! {w}Это же кот!)"
-    Л "（なんで私、こいつに問いただしてるの？！{w}猫なのに！）"
+    Л "（なんで私、詰問してるの？！{w}猫相手に！）"
 
 # game/script.rpy:3602
 translate japanese_pirate victory_7ccdd3e8:
@@ -5730,7 +5729,7 @@ translate japanese_pirate victory_7ccdd3e8:
 translate japanese_pirate victory_76b6d441:
 
     # Л "Погодите… {w}Получается, что я работала зря?"
-    Л "ちょっと待って......{w}じゃあ、私が働いたすべての報酬はゼロになるってわけ？"
+    Л "ちょっと待って......{w}じゃあ、私が働いた分のお金は全部なしってこと？"
 
 # game/script.rpy:3607
 translate japanese_pirate victory_9098a54a:
@@ -5742,7 +5741,7 @@ translate japanese_pirate victory_9098a54a:
 translate japanese_pirate victory_09f83fe0:
 
     # З "Что такое? {w}Вы знаете, за что я вас ругаю!"
-    З "何か言いたいことでもあるのか？{w}どうして非難されているかはわかっているはずだ！"
+    З "何だい？{w}どうして非難されているかはわかっているはずだ！"
 
 # game/script.rpy:3613
 translate japanese_pirate victory_e4c2565f:
@@ -5760,13 +5759,13 @@ translate japanese_pirate victory_5e9d51f7:
 translate japanese_pirate victory_bcf2c209:
 
     # З "Я же еще запланировал как минимум пять побегов из различных тюрем, на случай если меня поймают. {w}А на это что нужно? {w}Правильно — деньги! {w}Нужно платить подельникам, давать взятки и так далее и тому подобное…"
-    З "私は万一捕まった時のために、刑務所からの脱走計画をすでに5回分は作ってある。{w}そして脱走するとき何が必要になる？{w}そうとも！お金さ！{w}共犯者に払う金、役人への賄賂、その他もろもろ....."
+    З "私は万一捕まった時のために、刑務所からの脱走計画をすでに5回分は作ってある。{w}そして脱走するとき何が必要になる？{w}そうとも！お金さ！{w}共犯者に払う金、役人への賄賂、その他もろもろ.....。"
 
 # game/script.rpy:3625
 translate japanese_pirate victory_83121d72:
 
     # Л "То есть, ты хочешь сказать… {w}что мне не заплатят?"
-    Л "つまり.....{w}私はお給料をもらえないってこと？"
+    Л "つまり.....{w}私は給料をもらえないってこと？"
 
 # game/script.rpy:3627
 translate japanese_pirate victory_5dddc22b:
@@ -5778,13 +5777,13 @@ translate japanese_pirate victory_5dddc22b:
 translate japanese_pirate victory_e7ea2983:
 
     # З "Нет, директор, конечно, может заплатить вам из своего кармана, как и всем остальным сотрудникам. {w}Все компенсации, премии, зарплаты…"
-    З "つまり、君のCEOが、君や他の従業員に自分の財布で支払えるだろうってことさ。もし彼が望めばね。{w}補償金も、給与も、ボーナスも。"
+    З "つまり、君の CEO が、君や他の従業員に自分の財布で支払えるだろうってことさ。もし彼が望めばね。{w}補償金も、給与も、ボーナスも。"
 
 # game/script.rpy:3631
 translate japanese_pirate victory_3150d20c:
 
     # З "Да, господин директор? {w}У вас же хватит денег?"
-    З "そうででしょう？ムッシューCEO？{w}あなやはそのくらいの資金は十分お持ちだと、私は確信しているが。"
+    З "そうでしょう？ムッシュー CEO？{w}あなたはそのくらいの資金は十分お持ちだと、私は確信しているが。"
 
 # game/script.rpy:3645
 translate japanese_pirate victory_a93d4b6c:
@@ -5947,7 +5946,7 @@ translate japanese_pirate victory_b1861576:
 translate japanese_pirate victory_c4a70208:
 
     # ПБ "Я перепродам ее и куплю Мари новое платье! {w}{size=-2}Может, тогда она меня заметит..."
-    ПБ "あれを売ってマリエに新しいドレスを買ってやろう！{w}{size=-2}そしたら彼女もきっといい加減僕を意識してくれるようになるはず......"
+    ПБ "あれを売ってマリエに新しいドレスを買ってやろう！{w}{size=-2}そしたら彼女もきっとやっと僕を意識してくれるようになるはず......"
 
 # game/script.rpy:3785
 translate japanese_pirate victory_09a83eda:
@@ -5977,7 +5976,7 @@ translate japanese_pirate victory_bfd36e82:
 translate japanese_pirate victory_1c8a4990:
 
     # Л "Я так старалась ради этой фигурки... {w}Я так старалась... {w}а ты..."
-    Л "私、このフィギュアのためにこんなに頑張って働いてきて.....{w}私本当に頑張ったのに....{w}それをあなたは......."
+    Л "私、このフィギュアのためにあんなに頑張ったのに.....{w}本当に一生懸命やったのに......{w}なのにあんたは......."
 
 # game/script.rpy:3813
 translate japanese_pirate victory_43b15d51:
@@ -5989,7 +5988,7 @@ translate japanese_pirate victory_43b15d51:
 translate japanese_pirate victory_dbac1973:
 
     # Л "Я ТРЕБУЮ КОМПЕНСАЦИЮ!!!!"
-    Л "弁償をしてもらうわ！！"
+    Л "償いをしてもらうわ！！"
 
 # game/script.rpy:3838
 translate japanese_pirate victory_e31ef233:
@@ -6013,7 +6012,7 @@ translate japanese_pirate player_attack1_85c98444:
 translate japanese_pirate player_attack1_2c3d0bea:
 
     # Л "Эй! {w}Пистолет против правил!"
-    Л "えぇ！ピストルを使うのはルール違反でしょ！"
+    Л "ちょっと！{w}ピストルを使うのはルール違反でしょ！"
 
 # game/script.rpy:4114
 translate japanese_pirate player_attack1_c5f47e7a:
@@ -6037,7 +6036,7 @@ translate japanese_pirate player_attack1_17381e9c:
 translate japanese_pirate player_attack1_27281584:
 
     # Л "СТРЕЛЯЙ!" with vpunch
-    Л "撃ってよ！" with vpunch
+    Л "撃って！" with vpunch
 
 # game/script.rpy:4119
 translate japanese_pirate player_attack1_e6bdcd84:
@@ -6091,7 +6090,7 @@ translate japanese_pirate player_attack1_7ea4b1e9:
 translate japanese_pirate player_attack1_b822d1cb:
 
     # Л "Какой-то позер в уродском костюме не отдает мне честно заработанную фигурку."
-    Л "キモいスーツ姿のバカな口だけ野郎に私が一生懸命苦労して手に入れたフィギュアをくれないからよ。"
+    Л "キモいスーツ姿のバカな口だけヤロウが私の一生懸命苦労して手に入れたフィギュアを返してくれないから困ってるのよ。"
 
 # game/script.rpy:4130
 translate japanese_pirate player_attack1_4f1eb94d:
@@ -6109,19 +6108,19 @@ translate japanese_pirate player_attack1_ab04e32b:
 translate japanese_pirate player_attack1_c528bb87:
 
     # "Луна взмахивает жезлом, но..."
-    ""
+    "ルナ は魔法のステッキを振ろうとしたが......"
 
 # game/script.rpy:4142
 translate japanese_pirate player_attack1_e5c204c3:
 
     # "Луна падает на пол и хватается за раненое плечо."
-    ""
+    "ルナ は床に倒れこみ、傷ついた肩を押さえる。"
 
 # game/script.rpy:4152
 translate japanese_pirate player_attack1_c86f42ff:
 
     # "Пурпурный Барон стреляет в Луну, но та успевает включить гравитационную турбулентность, и пуля отскакивает обратно в Барона."
-    ""
+    "パープル男爵 は ルナ を撃った。しかしルナはすんでのところでグラビ・タービュランスを起動し、弾丸は男爵自身に跳ね返る。"
 
 # game/script.rpy:4162
 translate japanese_pirate player_attack1_6565d73b:
@@ -6133,7 +6132,7 @@ translate japanese_pirate player_attack1_6565d73b:
 translate japanese_pirate player_attack1_59aeeb4a:
 
     # ПБ "vdsfvsdfv" with vpunch
-    ПБ "" with vpunch
+    ПБ "vdsfvsdfv" with vpunch
 
 # game/script.rpy:4188
 translate japanese_pirate player_attack1_748aeeca:
@@ -6145,19 +6144,19 @@ translate japanese_pirate player_attack1_748aeeca:
 translate japanese_pirate player_attack1_d711a617:
 
     # ПБ "Ты представляешь, сколько времени у меня отнимаешь?" with vpunch
-    ПБ "" with vpunch
+    ПБ "君は自分がどれだけ僕の時間を無駄にしてるかわかっているのかい？" with vpunch
 
 # game/script.rpy:4212
 translate japanese_pirate player_attack1_f9e0805e:
 
     # ПБ "Возиться с тобой не самое приятное занятие!"
-    ПБ ""
+    ПБ "君との取引は本当に面倒だな！"
 
 # game/script.rpy:4213
 translate japanese_pirate player_attack1_00f4e94c:
 
     # ПБ "Ты напоминаешь мне племянника. {w}Ужасное воспитание и никакого уважения к взрослым!"
-    ПБ ""
+    ПБ "君は私の甥を思い出させるよ。{w}ひどい育てられ方をしていて、年長者を敬わないんだ！"
 
 # game/script.rpy:4219
 translate japanese_pirate player_attack1_5211e6f5:
@@ -6193,7 +6192,7 @@ translate japanese_pirate player_attack1_2e9975e2:
 translate japanese_pirate player_attack1_6512a185:
 
     # Л "Тогда в чем логика?"
-    Л "それで、これってどういう理屈なの？"
+    Л "それじゃあ理屈はどこにあるの？"
 
 # game/script.rpy:4229
 translate japanese_pirate player_attack1_052ad2d4:
@@ -6325,7 +6324,7 @@ translate japanese_pirate player_attack1_5d22fca1:
 translate japanese_pirate player_attack1_169c186d:
 
     # "Пурпурный Барон получает моральный урон."
-    "パープル男爵は精神的ダメージを受けた。"
+    "パープル男爵 は精神的ダメージを受けた。"
 
 # game/script.rpy:4277
 translate japanese_pirate player_attack1_d508688c:
@@ -6349,7 +6348,7 @@ translate japanese_pirate player_attack1_05a52179:
 translate japanese_pirate player_attack1_555cf797:
 
     # ПБ "В тот вечер я пришел домой весь в слезах.{w} Матушка обняла меня и объяснила: \"Неважно, какой ты снаружи, главное, какой ты внутри.\""
-    ПБ "その夜、僕は家に帰って泣いた。{w}母さんは僕を抱きしめて言ってくれたよ。「外側がどう見られようと関係ないわ。あなたの値打ちを決めるのはあなたの内面がどうかよ。」"
+    ПБ "その夜、僕は家に帰って泣いた。{w}母さんは僕を抱きしめて言ってくれたよ。{w}「外側がどう見られようと関係ないわ。あなたの値打ちを決めるのはあなたの内面がどうかよ。」"
 
 # game/script.rpy:4281
 translate japanese_pirate player_attack1_d0d7980d:
@@ -6367,7 +6366,7 @@ translate japanese_pirate player_attack1_03d2dac6:
 translate japanese_pirate player_attack1_0c8d14a9:
 
     # ПБ "Я не!.."
-    ПБ "違う......"
+    ПБ "違う......。"
 
 # game/script.rpy:4286
 translate japanese_pirate player_attack1_71d948ac:
@@ -6379,7 +6378,7 @@ translate japanese_pirate player_attack1_71d948ac:
 translate japanese_pirate player_attack1_3fc3ec56:
 
     # ПБ "Все вы просто хотите видеть в человеке только плохое, потому что так удобнее.{w} Удобно, когда ты можешь судить других, чувствуешь себя превосходным классом."
-    ПБ "君は人の一番悪い面しか見ないんだ、なぜならその方が楽だからさ。{w}そうしていれば、楽に周りを見下せる。それで、自分が上位の存在であるみたいに感じることができる。"
+    ПБ "君は人の一番悪い面しか見ないんだ、なぜならその方が楽だからさ。{w}そうしていれば、楽に周りを見下せる。それで、自分が優れた存在であるみたいに感じることができる。"
 
 # game/script.rpy:4288
 translate japanese_pirate player_attack1_184eedde:
@@ -6463,19 +6462,19 @@ translate japanese_pirate player_attack1_c7d10151:
 translate japanese_pirate player_attack1_638e1e1d:
 
     # Л "Что за жалкий позер... {w}У ТЕБЯ НЕТ НИКАКИХ ПРАВ НАЗЫВАТЬ СЕБЯ ДОСТОЙНЫМ ФИГУРКИ ПАПИПО-ЧАН ОГРАНИЧЕННОГО ИЗДАНИЯ!" with vpunch
-    Л "なんてみじめな口だけ野郎なんだろ......。{w}あなたに自分がパピポちゃんの限定版フィギュアを持つ資格があるなんて言う資格、絶対にない！" with vpunch
+    Л "なんてみじめな口だけ野郎なんだろ......。{w}あなたには、自分がパピポちゃんの限定版フィギュアを持つ資格があるなんて、言う権利すらないわ！" with vpunch
 
 # game/script.rpy:4309
 translate japanese_pirate player_attack1_169c186d_1:
 
     # "Пурпурный Барон получает моральный урон."
-    "パープル男爵は精神的にダメージを受けた。"
+    "パープル男爵 は精神的にダメージを受けた。"
 
 # game/script.rpy:4310
 translate japanese_pirate player_attack1_2a49ff61:
 
     # ПБ "Мадам, вы меня пугаете..."
-    ПБ "マダム、君、ちょっと怖いよ...."
+    ПБ "マダム、君、ちょっと怖いよ....。"
 
 # game/script.rpy:4311
 translate japanese_pirate player_attack1_988fe352:
@@ -6493,7 +6492,7 @@ translate japanese_pirate player_attack1_85c98444_1:
 translate japanese_pirate player_attack1_2c3d0bea_1:
 
     # Л "Эй! {w}Пистолет против правил!"
-    Л "えぇ！{w}ピストルを使うのはルール違反でしょ！"
+    Л "ちょっと！{w}ピストルを使うのはルール違反でしょ！"
 
 # game/script.rpy:4322
 translate japanese_pirate player_attack1_bc9339b0:
@@ -6517,7 +6516,7 @@ translate japanese_pirate player_attack1_17381e9c_1:
 translate japanese_pirate player_attack1_27281584_1:
 
     # Л "СТРЕЛЯЙ!" with vpunch
-    Л "撃ってよ！" with vpunch
+    Л "撃て！" with vpunch
 
 # game/script.rpy:4327
 translate japanese_pirate player_attack1_e6bdcd84_1:
@@ -6571,7 +6570,7 @@ translate japanese_pirate player_attack1_7ea4b1e9_1:
 translate japanese_pirate player_attack1_b822d1cb_1:
 
     # Л "Какой-то позер в уродском костюме не отдает мне честно заработанную фигурку."
-    Л "キモいスーツ姿のバカな口だけ野郎に私が一生懸命苦労して手に入れたフィギュアをくれなくて困ってる。"
+    Л "キモいスーツ姿のバカな口だけヤロウが私の一生懸命苦労して手に入れたフィギュアを返してくれないから困ってるのよ。"
 
 # game/script.rpy:4338
 translate japanese_pirate player_attack1_4f1eb94d_1:
@@ -6589,13 +6588,13 @@ translate japanese_pirate player_attack1_ab04e32b_1:
 translate japanese_pirate player_attack1_c528bb87_1:
 
     # "Луна взмахивает жезлом, но..."
-    "ルナは魔法の杖を振ろうとしたが......"
+    "ルナ は魔法のステッキを振ろうとしたが......"
 
 # game/script.rpy:4348
 translate japanese_pirate player_attack1_e5c204c3_1:
 
     # "Луна падает на пол и хватается за раненое плечо."
-    "ルナは床に倒れこみ、傷ついた肩を押さえる。"
+    "ルナ は床に倒れこみ、傷ついた肩を押さえる。"
 
 # game/script.rpy:4349
 translate japanese_pirate player_attack1_41bed491:
@@ -6613,7 +6612,7 @@ translate japanese_pirate player_attack1_422d1103:
 translate japanese_pirate player_attack1_c86f42ff_1:
 
     # "Пурпурный Барон стреляет в Луну, но та успевает включить гравитационную турбулентность, и пуля отскакивает обратно в Барона."
-    "パープル男爵はルナを撃った。しかしルナはすんでのところでグラビ・タービュランスを起動し、弾丸はバロンに跳ね返る。"
+    "パープル男爵 は ルナ を撃った。しかしルナはすんでのところでグラビ・タービュランスを起動し、弾丸は男爵自身に跳ね返る。"
 
 # game/script.rpy:4436
 translate japanese_pirate enemy_turn1_6565d73b:
@@ -6637,7 +6636,7 @@ translate japanese_pirate defeat1_273da825:
 translate japanese_pirate victory1_83c4c196:
 
     # "Пурпурный Барон побежден!"
-    "パープル男爵はたおれた！"
+    "パープル男爵 はたおれた！"
 
 # game/script.rpy:4497
 translate japanese_pirate victory1_381a5059:
@@ -6691,7 +6690,7 @@ translate japanese_pirate victory1_f76369db:
 translate japanese_pirate victory1_63fc28b2:
 
     # И "О-о-о нет… {w}Скажите мне, что вы только выглядите как пять моих братьев-оболтусов. {w}А то я думаю, где они пропадают в последнее время?"
-    И "嘘だろ......{w}私の役立たずの5人兄弟たちにたまたまそっくりなだけって言っておくれ。{w}ちょうど今までどこほっつき歩いてるのか気になってたところだったんだが......"
+    И "嘘だろ......{w}私の役立たずの5人兄弟たちにたまたまそっくりなだけって言っておくれ。{w}ちょうど今までどこほっつき歩いてるのか気になっていたところだったんだが......"
 
 # game/script.rpy:4523
 translate japanese_pirate victory1_e32e100c:
@@ -6733,7 +6732,7 @@ translate japanese_pirate victory1_0c5ac452:
 translate japanese_pirate victory1_7904fce1:
 
     # "После чего Инака бросилась безжалостно колотить головорезов."
-    "それから、イナカはごろつきらに飛びかかって、制裁を加えはじめた。"
+    "それから、イナカはごろつきたちに飛びかかって、お仕置きをしはじめた。"
 
 # game/script.rpy:4549
 translate japanese_pirate victory1_3302d4d3:
@@ -6745,7 +6744,7 @@ translate japanese_pirate victory1_3302d4d3:
 translate japanese_pirate victory1_48cc31be:
 
     # Л "Как всегда вовремя!"
-    Л "いつも通り、時間ぴったりね！"
+    Л "わぁ、いつも通り、時間ぴったり！"
 
 # game/script.rpy:4551
 translate japanese_pirate victory1_a1d5959f:
@@ -6757,13 +6756,13 @@ translate japanese_pirate victory1_a1d5959f:
 translate japanese_pirate victory1_f2b61a28:
 
     # Л "Что ж, по крайней мере все закончилось."
-    Л "まあとにかくこれで全部終わりね。"
+    Л "まあ少なくとも、これで全部終わり、ね。"
 
 # game/script.rpy:4553
 translate japanese_pirate victory1_124a99b8:
 
     # "Инака с директором развязывали бывших заложников, кто-то плакал, кто-то вздыхал с облегчением, кто-то нервно смеялся."
-    "イナカとCEOは残りの人質の縄を解いた。泣いてる者も、安堵してため息をつく者も、ひきつったように笑う者もいた。"
+    "イナカと CEO は残りの人質の縄を解いた。泣いてる者も、安堵してため息をつく者も、ひきつったように笑う者もいた。"
 
 # game/script.rpy:4554
 translate japanese_pirate victory1_68c55dea:
@@ -6781,7 +6780,7 @@ translate japanese_pirate victory1_e25069c6:
 translate japanese_pirate victory1_fc157d80:
 
     # А "Это… {w}Это было ТАК КРУТО!!! {w}Ты ПРОСТО его уделала к чертям! {w}Прямо как в фильмах."
-    А "ほんとにすっごかったじゃん！！！{w}あいつを完全にぶっ飛ばしちゃったよ！{w}まるで映画の中みたいに！"
+    А "ホントすっごかったじゃん！！！{w}あいつを完全にぶっ飛ばしちゃったよ！{w}まるで映画の中みたいに！"
 
 # game/script.rpy:4558
 translate japanese_pirate victory1_29fcf568:
@@ -6805,7 +6804,7 @@ translate japanese_pirate victory1_2da4747f:
 translate japanese_pirate victory1_b2b42b09:
 
     # "Я расплылась в самодовольной улыбке."
-    "にやけ笑いが私の顔中に広がった。。"
+    "にやけ笑いが私の顔中に広がった。"
 
 # game/script.rpy:4562
 translate japanese_pirate victory1_21bd562c:
@@ -6859,7 +6858,7 @@ translate japanese_pirate victory1_395f8551:
 translate japanese_pirate victory1_d850370b:
 
     # Пол "Да-да, молодец. {w}В участке расскажешь."
-    Пол "はいはい、そうかい。{w}それについての詳しい話は署で聞かせてもらおう。"
+    Пол "そうかそうか、よしよし。{w}それについての詳しい話は署で聞かせてもらおう。"
 
 # game/script.rpy:4574
 translate japanese_pirate victory1_b6bd9f46:
@@ -6877,7 +6876,7 @@ translate japanese_pirate victory1_2496dd75:
 translate japanese_pirate victory1_33b5fcb8:
 
     # Л "(Ах, как приятно иметь два выходных в неделю! {w}Жаль, что Инаку выпустили только сейчас.)"
-    Л "（あぁ、週に二日も休めるなんて最高の気分！{w}イナコの釈放が今頃になるなんてちょっと惜しい感じだけど。）"
+    Л "（あぁ、週に二日も休めるなんて最高の気分！{w}イナコの釈放が今頃になっちゃったのはちょっと悔しいけど。）"
 
 # game/script.rpy:4605
 translate japanese_pirate victory1_68aef634:
@@ -6907,7 +6906,7 @@ translate japanese_pirate victory1_a33d1f23:
 translate japanese_pirate victory1_5d0444b2:
 
     # Л "Извините, извините…"
-    Л "ごめん......"
+    Л "ごめん......。"
 
 # game/script.rpy:4616
 translate japanese_pirate victory1_815d506e:
@@ -6949,7 +6948,7 @@ translate japanese_pirate victory1_ddfb1496:
 translate japanese_pirate victory1_7cf11190:
 
     # РК "{size=+13}ЙЕС-С!!!" with vpunch
-    РК "{size=+13}はい！！！" with vpunch
+    РК "{size=+13}かしこまりました！！！" with vpunch
 
 # game/script.rpy:4632
 translate japanese_pirate victory1_35e7a50b:
@@ -6973,7 +6972,7 @@ translate japanese_pirate victory1_f20c6ec3:
 translate japanese_pirate victory1_dd91eef3:
 
     # И "А я человек простой. {w}У меня просто кофе."
-    И "そして私はシンプル派だから、{w}単なるありふれたホットコーヒー。"
+    И "そしてシンプル派な私は、{w}単なるありふれたホットコーヒー。"
 
 # game/script.rpy:4640
 translate japanese_pirate victory1_07d1c86c:
@@ -7003,25 +7002,25 @@ translate japanese_pirate victory1_923470cd:
 translate japanese_pirate victory1_3cc5c792:
 
     # И "Спасибо, спасибо. {w}Это меня еще по доброте душевной отпустили. {w}А то мне хотели еще пару-тройку статей накинуть, но все же отделалась административной."
-    И "どうもどうも。{w}今回はお咎めなしだったよ。{w}あと2、3個罪を科せられるかと思ったけど、結局、地域奉仕処分ですんだよ。"
+    И "どうもどうも。{w}今回はお咎めなしだったよ。{w}あと2、3個罪を科せられるかと思ったけど、結局、地域奉仕処分ですんだんだ。"
 
 # game/script.rpy:4645
 translate japanese_pirate victory1_d6a9f1a3:
 
     # Л "Меня на следующий день отпустили."
-    Л "私は次の日に釈放されたんだ。"
+    Л "私も翌日に帰してもらえた。"
 
 # game/script.rpy:4646
 translate japanese_pirate victory1_e44b199c:
 
     # А "Понятное дело! {w}Ты с полицейскими не дралась и через оцепление не прорывалась."
-    А "そりゃそうだ！{w}ルナは警察ともめたり、包囲網に突っ込んで突破したりしなかったもんね。"
+    А "そりゃそうだ！{w}ルナは警察ともめてないし、包囲網に突っ込んで突破したりしなかったもんね。"
 
 # game/script.rpy:4647
 translate japanese_pirate victory1_02b3c487:
 
     # Л "Это да… {w}Но если бы не Инака, меня бы наверняка просто задавили. {w}Они должны быть ей благодарны! {w}Это несправедливо!"
-    Л "それはそうだけど.....{w}イナカがきてくれなかったら、私ダメだったかも。{w}警察も、イナカに感謝すべきなのに....。{w}こんなの理不尽だよ！"
+    Л "それはそうだけど.....{w}イナカがきてくれなかったら、私やられてたかも。{w}警察も、イナカに感謝すべきなのに....。{w}こんなの理不尽だよ！"
 
 # game/script.rpy:4648
 translate japanese_pirate victory1_e4e61cff:
@@ -7033,7 +7032,7 @@ translate japanese_pirate victory1_e4e61cff:
 translate japanese_pirate victory1_272d485d:
 
     # А "Ну и семейка…"
-    А "なんちゅう家族だ......"
+    А "なんつー家族......。"
 
 # game/script.rpy:4650
 translate japanese_pirate victory1_081d7ca7:
@@ -7045,13 +7044,13 @@ translate japanese_pirate victory1_081d7ca7:
 translate japanese_pirate victory1_c3d25ff1:
 
     # А "Я вот чего не понимаю. {w}Как тебе удалось включить ПМЗУ без вышки и чипа?"
-    А "一つだけわからないことがあるんだけど。{w}タワーもチップもなしでなんでヘクションをつけることができたの？"
+    А "私、一つだけわからないんだけど、{w}タワーもチップもなしでなんでヘクションをつけることができたの？"
 
 # game/script.rpy:4653
 translate japanese_pirate victory1_d30d5b3b:
 
     # Л "Не знаю. {w}Честно. {w}Я просто была в такой ярости… {w}и оно как-то само включилось. {w}В какой-то момент я даже начала верить в волшебство."
-    Л "わかんない。{w}ほんとに。{w}あのときはただものすんごく腹が立って......{w}そしたら勝手に起動してた。{w}途中で私も「ホントに魔法ってあるんだー」って思ったくらい。"
+    Л "わかんない、{w}ほんとに。{w}あのときはただものすんごく腹が立ってさー......{w}そしたら勝手に起動してた。{w}途中で私も「ホントに魔法ってあるんだー」って思ったくらい。"
 
 # game/script.rpy:4654
 translate japanese_pirate victory1_ee74eb21:
@@ -7069,7 +7068,7 @@ translate japanese_pirate victory1_b0a522d0:
 translate japanese_pirate victory1_4fa96e4a:
 
     # Л "Все-таки магии не существует."
-    Л "つまり、結局、魔法なんて存在しないのね。"
+    Л "つまり、結局、魔法なんて存在しないんだ。"
 
 # game/script.rpy:4658
 translate japanese_pirate victory1_1e63b3e2:
@@ -7117,7 +7116,7 @@ translate japanese_pirate victory1_ba41f353:
 translate japanese_pirate victory1_4f011bdc:
 
     # Л "Она перестала заикаться."
-    Л "どもらなくなってる。"
+    Л "どもらなくなってる....."
 
 # game/script.rpy:4668
 translate japanese_pirate victory1_5f952edc:
@@ -7171,7 +7170,7 @@ translate japanese_pirate victory1_9031cd93:
 translate japanese_pirate victory1_b52e46a5:
 
     # Л "Фрустрация…"
-    Л "なんかモヤモヤする...."
+    Л "なんかモヤモヤしちゃって...."
 
 # game/script.rpy:4685
 translate japanese_pirate victory1_d63ae8ee:
@@ -7189,13 +7188,13 @@ translate japanese_pirate victory1_cc488163:
 translate japanese_pirate victory1_b6008f87:
 
     # Л "После покупки я на радостях пересмотрела все сезоны Папипо-чан и столкнулась с осознанием того, насколько это далеко от реальности."
-    Л "フィギュアを買った後、私、うれしくなってパピポちゃんの全シーズンを見返したんだけど、そしたらどれだけ現実とかけ離れてるのかに気づいちゃった。"
+    Л "フィギュアを買った後、私、うれしくなってパピポちゃんのアニメを全シーズンを見返したんだけど、そしたらどれだけ現実とかけ離れてるのかに気づいちゃった。"
 
 # game/script.rpy:4688
 translate japanese_pirate victory1_6ad5392d:
 
     # Л "Мы живем совсем не в том мире и не в то время. {w}Пистолеты против магии — вообще не романтично! {w}И никаких тебе галантных благородных воров…"
-    Л "生まれる世界と時間を間違えたんだわ。{w}「銃VS魔法」なんて全然ロマンチックじゃない！{w}それに華麗で気高い怪盗なんていないし......"
+    Л "生まれる世界と時間を間違えたんだわ。{w}「銃 VS 魔法」なんて全然ロマンチックじゃない！{w}それに華麗で気高い怪盗なんていないし......。"
 
 # game/script.rpy:4689
 translate japanese_pirate victory1_d4e9c374:
@@ -7207,7 +7206,7 @@ translate japanese_pirate victory1_d4e9c374:
 translate japanese_pirate victory1_451beb44:
 
     # Л "Нет, он фрик во фраке!"
-    Л "ダメ！あんなのはただのタキシードを着た変態だし！"
+    Л "ダメ！あんなただのタキシードを着た変態なんか！"
 
 # game/script.rpy:4693
 translate japanese_pirate victory1_47a527f0:
@@ -7309,7 +7308,7 @@ translate japanese_pirate victory1_47360628:
 translate japanese_pirate victory1_8675b5cc:
 
     # Л "(Ты и не начинала.)"
-    Л "（まだ始めてすらないもんにオサラバも何もないでしょ）"
+    Л "（まだ始めてすらないもんにオサラバも何もないでしょ。）"
 
 # game/script.rpy:4720
 translate japanese_pirate victory1_db141985:
@@ -7321,7 +7320,7 @@ translate japanese_pirate victory1_db141985:
 translate japanese_pirate victory1_a6089e3d:
 
     # Л "Как же ты легко сменяешь хобби..."
-    Л "アヤは趣味を変えるのが随分早いんだね....。"
+    Л "アヤは趣味を変えるのが随分早いんだねー....。"
 
 # game/script.rpy:4722
 translate japanese_pirate victory1_50b435ff:
@@ -7339,13 +7338,13 @@ translate japanese_pirate victory1_bba8d87a:
 translate japanese_pirate victory1_0449c560:
 
     # Л "А что, можно!"
-    Л "うん、いいアイディアだね！"
+    Л "うん！いいアイディア！"
 
 # game/script.rpy:4728
 translate japanese_pirate victory1_aef85f27:
 
     # И "О-о нет. {w}Я н-н-не уверена, ч-что у ме-ме-меня…"
-    И "あ、だ、だダメだ。{w}私はう、歌えるか、わ、わからない...."
+    И "あ、だ、だダメだ。{w}私は、う、歌えるか、わ、わからない......。"
 
 # game/script.rpy:4729
 translate japanese_pirate victory1_6bdc35ed:
@@ -7387,7 +7386,7 @@ translate japanese_pirate victory1_74079042:
 translate japanese_pirate victory1_be96aa29:
 
     # Л "Папи-папи-папи-папи-па-а-апипо-ча-а-ан!"
-    Л "パピ・パピ・パピ・パーーーピポチャーーーーン！"
+    Л "パピ・パピ・パピ・パーーーピポチャァァーーーン！"
 
 # game/script.rpy:4740
 translate japanese_pirate victory1_0db04f8d:
@@ -7399,7 +7398,7 @@ translate japanese_pirate victory1_0db04f8d:
 translate japanese_pirate victory1_92bdd03f:
 
     # sub "{cps=20}Вот так и закончилась небольшая история о том, как Луна{nw}"
-    sub "{cps=20}風車に囲まれた町でルナがほんものの魔法少女になる小さな物語はこれで終わり。{nw}"
+    sub "{cps=20}風車に囲まれた町でルナがほんものの{nw}"
 
 # game/script.rpy:4748
 translate japanese_pirate victory1_0f047c57:
@@ -7417,446 +7416,19 @@ translate japanese_pirate victory1_7c949902:
 translate japanese_pirate victory1_81ddc3cd:
 
     # sub "{cps=20}Вот так закончилась небольшая история о том, как Луна{fast} стала настоящей девочкой-волшебницей в городе, окруженном ветряными мельницами."
-    sub "{cps=20}風車に囲まれた町でルナがほんものの魔法少女になる小さな物語はこれで終わり。{fast}"
+    sub "{cps=20}風車に囲まれた町でルナがほんものの{fast}魔法少女になる小さな物語は、こうして終わりを迎えた。"
 
 # game/script.rpy:4756
 translate japanese_pirate victory1_b13385de:
 
     # sub "Хотя, может быть, это только начало."
-    sub "たとえそれがもっと大きな何かの始まりにすぎないとしても。"
-
-# # game/script.rpy:4775
-# translate japanese_pirate auto_credits_1e19d914:
-
-#     # sub1 "\ngame and art by motijan{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4776
-# translate japanese_pirate auto_credits_50e62a72:
-
-#     # sub1 "\nmusic by ime44{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4777
-# translate japanese_pirate auto_credits_b4b8eab8:
-
-#     # sub1 "\nediting by thanatochaos{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4778
-# translate japanese_pirate auto_credits_5a950b80:
-
-#     # sub1 "\nenglish translation {nw}\nby Aesthetic Dialectic{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4779
-# translate japanese_pirate auto_credits_c33053d1:
-
-#     # sub1 "\nspecial thanks to:{nw}\nkornodd{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4780
-# translate japanese_pirate auto_credits_09f31772:
-
-#     # sub1 "\nspecial thanks to:{fast}{nw}\nDeth{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4781
-# translate japanese_pirate auto_credits_a50926af:
-
-#     # sub1 "\nspecial thanks to:{fast}{nw}\nPazetic Ocean{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4782
-# translate japanese_pirate auto_credits_d43bdf96:
-
-#     # sub1 "\nspecial thanks to:{fast}{nw}\nGreenbox{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4783
-# translate japanese_pirate auto_credits_95bcccc8:
-
-#     # sub1 "\nspecial thanks to:{fast}{nw}\nYugane Mero{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4784
-# translate japanese_pirate auto_credits_262b056d:
-
-#     # sub1 "\nspecial thanks to:{fast}{nw}\nAlfredPros{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4785
-# translate japanese_pirate auto_credits_142fa1b9:
-
-#     # sub1 "\n{cps=17}and you.{w=7.0}{nw}"
-#     sub1 ""
-
-# # game/script.rpy:4789
-# translate japanese_pirate auto_credits_d8dc9c23:
-
-#     # sub1 "\n{cps=17}ending theme by ime44\nlyrics by ime44 and Lil Hyvää{w=7.0}{nw}"
-#     sub1 ""
+    sub "でも、これはもっと大きな何かの始まりにすぎないのかもしれない。"
 
 # game/script.rpy:4797
 translate japanese_pirate auto_credits_713da1b5:
 
     # "Конец."
-    ""
-
-# translate japanese_pirate strings:
-
-#     # game/script.rpy:1196
-#     old "Покрышки лежат на пути."
-#     new ""
-
-#     # game/script.rpy:1198
-#     old "ATTACK"
-#     new ""
-
-#     # game/script.rpy:1206
-#     old "Бой продолжается."
-#     new ""
-
-#     # game/script.rpy:1216
-#     old "Покрышки угрожающе лежат на пути."
-#     new ""
-
-#     # game/script.rpy:1234
-#     old "DEFENSE"
-#     new ""
-
-#     # game/script.rpy:1268
-#     old "Куча вонючего мусора преграждает дорогу."
-#     new ""
-
-#     # game/script.rpy:1299
-#     old "Вонючий мусор готовит психологическую атаку."
-#     new ""
-
-#     # game/script.rpy:1332
-#     old "Вонючий мусор угрожающе лежит на пути."
-#     new ""
-
-#     # game/script.rpy:1357
-#     old "Вонючий мусор позорно лежит на месте."
-#     new ""
-
-#     # game/script.rpy:1404
-#     old "Знак \"Выброс Гравия\" преграждает дорогу."
-#     new ""
-
-#     # game/script.rpy:1416
-#     old "Знак \"Выброс Гравия\" все еще преграждает дорогу."
-#     new ""
-
-#     # game/script.rpy:2010
-#     old "Куча камней преграждает дорогу."
-#     new ""
-
-#     # game/script.rpy:2068
-#     old "Камень поменьше преграждает дорогу."
-#     new ""
-
-#     # game/script.rpy:2115
-#     old "Электрический столб преграждает дорогу."
-#     new ""
-
-#     # game/script.rpy:2141
-#     old "Электрический столб все еще преграждает дорогу."
-#     new ""
-
-#     # game/script.rpy:2290
-#     old "Луна пытается успокоить Дикую Керти."
-#     new ""
-
-#     # game/script.rpy:2290
-#     old "Луна пытается вежливо объяснить, что ей очень нужен ее сухпаек."
-#     new ""
-
-#     # game/script.rpy:2290
-#     old "Дикая Керти не понимает, но получает урон излишней вежливостью."
-#     new ""
-
-#     # game/script.rpy:2290
-#     old "Луна пытается жестами указать на исключительную неправоту Дикой Керти в этом конфликте."
-#     new ""
-
-#     # game/script.rpy:2290
-#     old "Дикую Керти пугает экспрессивная жестикуляция."
-#     new ""
-
-#     # game/script.rpy:2295
-#     old "Луна вспоминает правила поведения с агрессивными животными."
-#     new ""
-
-#     # game/script.rpy:2295
-#     old "Луна встает в полный рост, широко расставив руки и ноги, и издает грозный рык."
-#     new ""
-
-#     # game/script.rpy:2295
-#     old "Дикая Керти не очень напугана, но получает урон от неловкости."
-#     new ""
-
-#     # game/script.rpy:2295
-#     old "Луна решает использовать другой подход."
-#     new ""
-
-#     # game/script.rpy:2295
-#     old "Луна встает на четвереньки, начинает крутить глазами в разные стороны, хаотично бегать и истошно орать."
-#     new ""
-
-#     # game/script.rpy:2295
-#     old "На удивление это работает."
-#     new ""
-
-#     # game/script.rpy:2295
-#     old "Дикая Керти испытывает животный ужас и пятится."
-#     new ""
-
-#     # game/script.rpy:2300
-#     old "Луна не выдерживает, включает ПМЗУ и закидывает Дикую Керти на ветку ближайшего дерева."
-#     new ""
-
-#     # game/script.rpy:2304
-#     old "Дикая Керти пытается пробиться сквозь защиту, но безуспешно."
-#     new ""
-
-#     # game/script.rpy:2304
-#     old "Луна изучает противника: Дикая Керти выглядит абсолютно безумной."
-#     new ""
-
-#     # game/script.rpy:2304
-#     old "Луна защищается."
-#     new ""
-
-#     # game/script.rpy:2304
-#     old "Луна концентрируется на противнике."
-#     new ""
-
-#     # game/script.rpy:2313
-#     old "Дикая Керти кусает Луну за рукав."
-#     new ""
-
-#     # game/script.rpy:2313
-#     old "Дикая Керти вырывает зубами кирпич и кидает его в Луну."
-#     new ""
-
-#     # game/script.rpy:2313
-#     old "Дикая Керти плюет в Луну."
-#     new ""
-
-#     # game/script.rpy:2313
-#     old "Луна не получает физического урона, но чувствует себя оскорбленной."
-#     new ""
-
-#     # game/script.rpy:2313
-#     old "Дикая Керти хватает пробегающего мимо работника и кидает его в Луну."
-#     new ""
-
-#     # game/script.rpy:2319
-#     old "Луна изучает противника."
-#     new ""
-
-#     # game/script.rpy:2319
-#     old "Дикая Керти выглядит абсолютно безумной."
-#     new ""
-
-#     # game/script.rpy:2325
-#     old "Дикая Керти сбивает Луну с ног и вгрызается ей в шею."
-#     new ""
-
-#     # game/script.rpy:2325
-#     old "Дикая Керти изо всех сил кусает Луну за ногу."
-#     new ""
-
-#     # game/script.rpy:2330
-#     old "Дикая Керти кидается на Луну, но та вовремя отпрыгивает в сторону."
-#     new ""
-
-#     # game/script.rpy:2330
-#     old "Луна парирует летящую на нее Дикую Керти магическим жезлом."
-#     new ""
-
-#     # game/script.rpy:2330
-#     old "Луна уворачивается, от страха сделав сальто. {w}Первый раз в своей жизни."
-#     new ""
-
-#     # game/script.rpy:2336
-#     old "Дикая Керти сверлит Луну косым глазом и готовится к прыжку."
-#     new ""
-
-#     # game/script.rpy:2336
-#     old "Кажется, Дикая Керти что-то замышляет."
-#     new ""
-
-#     # game/script.rpy:2341
-#     old "Дикая Керти бегает на четвереньках."
-#     new ""
-
-#     # game/script.rpy:2341
-#     old "Дикая Керти загрызла случайно попавшегося ей под руку коллегу."
-#     new ""
-
-#     # game/script.rpy:2341
-#     old "Луна думает, что не очень хочет повторять его судьбу."
-#     new ""
-
-#     # game/script.rpy:2341
-#     old "Кажется, Дикая Керти в замешательстве."
-#     new ""
-
-#     # game/script.rpy:2346
-#     old "Дикая Керти претендует на твой сухпаек."
-#     new ""
-
-#     # game/script.rpy:2346
-#     old "Дикая Керти все еще претендует на твой сухпаек."
-#     new ""
-
-#     # game/script.rpy:3886
-#     old "Луна кидает в Пурпурного Барона степлер."
-#     new ""
-
-#     # game/script.rpy:3886
-#     old "Луна запускает в Пурпурного Барона телефон со стола директора."
-#     new ""
-
-#     # game/script.rpy:3886
-#     old "Луна запускает в Пурпурного Барона чей-то башмак."
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Луна сбивает Барона с ног."
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Похоже, Пурпурный Барон не очень доволен сложившейся ситуацией"
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Луна опрокидывает на Пурпурного Барона горшок с фикусом."
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Похоже, фикус не очень доволен сложившейся ситуацией."
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Луна отмечает, что наряд Пурпурного Барона несколько вышел из моды."
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Пурпурный Барон чувствует себя старым и оскорбленным."
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Луна сбивает Пурпурного Барона с ног креслом директора."
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Кресло трещит, а на глазах директора наворачиваются слезы."
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Луна роняет на Пурпурного Барона книжную полку."
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Барон потирает ушибленную голову, но другой рукой прячет за пазуху какую-то книгу."
-#     new ""
-
-#     # game/script.rpy:3892
-#     old "Похоже, он все еще надеется выбраться отсюда живым."
-#     new ""
-
-#     # game/script.rpy:3904
-#     old "Луна встает в защитную стойку."
-#     new ""
-
-#     # game/script.rpy:3904
-#     old "Луна изучает Пурпурного Барона. {w}Барон, похоже, все еще не намерен делиться фигуркой."
-#     new ""
-
-#     # game/script.rpy:3911
-#     old "Пурпурный Барон сбивает Луну с ног гравитационным импульсом."
-#     new ""
-
-#     # game/script.rpy:3911
-#     old "Пурпурный Барон бросает Луну в толпу головорезов. {w}Те же бросают ее обрано Барону, не зная, что с ней делать."
-#     new ""
-
-#     # game/script.rpy:3911
-#     old "Пурпурный Барон рассказывает про свой неудачный брак с женщиной-рестлером."
-#     new ""
-
-#     # game/script.rpy:3911
-#     old "Луна настолько вовлеклась в рассказ, что на самом интересном моменте случайно прикусила себе язык."
-#     new ""
-
-#     # game/script.rpy:3916
-#     old "Пурпурный Барон пытается поставить Луне подножку, но он слишком далеко."
-#     new ""
-
-#     # game/script.rpy:3916
-#     old "Пурпурный Барон выглядит воодушевленно."
-#     new ""
-
-#     # game/script.rpy:3920
-#     old "Пурпурный Барон с размаху сбивает Луну с ног микроголоворезом."
-#     new ""
-
-#     # game/script.rpy:3924
-#     old "Луна мастерски уклоняется от атаки Пурпурного Барона."
-#     new ""
-
-#     # game/script.rpy:3924
-#     old "Луна парирует атаку Пурпурного Барона."
-#     new ""
-
-#     # game/script.rpy:3924
-#     old "Луна уворачивается, от страха сделав сальто."
-#     new ""
-
-#     # game/script.rpy:3930
-#     old "Пурпурный Барон поднимает в воздух самого мелкого из головорезов и готовится запустить его в Луну."
-#     new ""
-
-#     # game/script.rpy:3930
-#     old "Кажется, Пурпурный Барон что-то замышляет."
-#     new ""
-
-#     # game/script.rpy:3935
-#     old "Пурпурный Барон стряхивает пыль с рукава."
-#     new ""
-
-#     # game/script.rpy:3935
-#     old "Пурпурный Барон достает из своего цилиндра хомяка."
-#     new ""
-
-#     # game/script.rpy:3935
-#     old "Хомяк в растерянности.{w} Пурпурный Барон засовывает хомяка обратно в цилиндр."
-#     new ""
-
-#     # game/script.rpy:3935
-#     old "Пурпурный Барон предается ностальгии по былым временам."
-#     new ""
-
-#     # game/script.rpy:3940
-#     old "Пурпурный Барон не хочет отдавать фигурку."
-#     new ""
-
-#     # game/script.rpy:3940
-#     old "Пурпурный Барон вообще не хочет отдавать фигурку."
-#     new ""
-
-#     # game/script.rpy:4134
-#     old "Пурпурный Барон целится в Луну."
-#     new ""
-
-#     # game/script.rpy:4136
-#     old "АTTACK"
-#     new ""
-
+    "おしまい。"
 
 translate japanese_pirate strings:
 
@@ -7866,11 +7438,11 @@ translate japanese_pirate strings:
 
     # game/script.rpy:1111
     old "ATTACK"
-    new "{size=-5}攻撃{/size}"
+    new "攻撃"
 
     # game/script.rpy:1111
     old "DEFENSE"
-    new "{size=-5}防御{/size}"
+    new "防御"
 
     # game/script.rpy:1121
     old "Бой продолжается."
@@ -8018,7 +7590,7 @@ translate japanese_pirate strings:
 
     # game/script.rpy:2216
     old "Дикая Керти сбивает Луну с ног и вгрызается ей в шею."
-    new "ルナ は自分の身を守る。"
+    new "やせいのカーティ は ルナ 足元をすくい、彼女の首に噛みついた。"
 
     # game/script.rpy:2216
     old "Дикая Керти изо всех сил кусает Луну за ногу."
@@ -8074,7 +7646,7 @@ translate japanese_pirate strings:
 
     # game/script.rpy:3687
     old "Луна запускает в Пурпурного Барона телефон со стола директора."
-    new "ルナ はCEOの机から パープル男爵 に電話を放った。"
+    new "ルナ は CEO の机から パープル男爵 に電話を放った。"
 
     # game/script.rpy:3687
     old "Луна запускает в Пурпурного Барона чей-то башмак."
@@ -8106,11 +7678,11 @@ translate japanese_pirate strings:
 
     # game/script.rpy:3693
     old "Луна сбивает Пурпурного Барона с ног креслом директора."
-    new "ルナ はCEOの椅子で パープル男爵 をなぐり倒した。"
+    new "ルナ は CEO の椅子で パープル男爵 をなぐり倒した。"
 
     # game/script.rpy:3693
     old "Кресло трещит, а на глазах директора наворачиваются слезы."
-    new "椅子が割れ、CEOの目には涙が浮かんだ。"
+    new "椅子が割れ、CEO の目には涙が浮かんだ。"
 
     # game/script.rpy:3693
     old "Луна роняет на Пурпурного Барона книжную полку."
@@ -8236,7 +7808,7 @@ translate japanese_pirate strings:
 
     # game/script.rpy:207
     old "Администратор"
-    new "受付の女の人"
+    new "受付の女性"
 
     # game/script.rpy:209
     old "Бариста"
