@@ -25,8 +25,8 @@ jobs:
           cp -r game/tl/japanese_pirate mahouteq-japanese-translation/game/tl/
 
           # READMEをルートにREADME_JP_MOD.mdとしてコピー
-          if [ -f game/tl/japanese_pirate/README.md ]; then
-            cp game/tl/japanese_pirate/README.md mahouteq-japanese-translation/README_JP_MOD.md
+          if [ -f README.md ]; then
+            cp README.md mahouteq-japanese-translation/README_JP_MOD.md
           fi
 
           # ZIPファイルを作成
