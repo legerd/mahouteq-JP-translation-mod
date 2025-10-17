@@ -41,13 +41,13 @@ translate japanese_pirate start_6c9531a6:
 
     # sub "В три месяца сказала первое слово.{p} В три года уже свободно говорила, обгоняя своих сверстников."
     sub "初めて言葉を話したのはまだ生まれてから3ヶ月のころだった。"
-    sub "3歳になるまでに、彼女はもう自在に話せていた、周りの子供より先に。"
+    sub "3歳になるまでには、周りの子供より先に、彼女はもう自在に話せていた、。"
 
 # game/script.rpy:276
 translate japanese_pirate start_fc254364:
 
     # sub "Луна окончила младшую школу на отлично и подавала большие надежды."
-    sub "ルナは小学校をオールAで終え、将来有望だった。"
+    sub "ルナは小学校をオールAで終え、非常に将来有望だった。"
 
 # game/script.rpy:277
 translate japanese_pirate start_622525da:
@@ -71,25 +71,25 @@ translate japanese_pirate start_01979e54:
 translate japanese_pirate start_fbee85dd:
 
     # Пп "Пипо-Пипо Па-а-а-ай! {w}Приветики, мои сладкие-пи! {w}Я Папипо Пуруми — скромная защитница вашего города-пи!"
-    Пп "ピポ・ピポ・パァァーーーイ！{w}おはよう、おはよう！かわピいファンのみんな！{w}私、パピポ・プルミ、あなたの町を守る正義のピロイン。"
+    Пп "ピポ・ピポ・パァァーーーイ！{w}おはよう、おはよう！かわピいファンのみんな！{w}私、パピポ・プルミ、あなたの町を守る正義のピロインだっピ。"
 
 # game/script.rpy:295
 translate japanese_pirate start_c4004461:
 
     # Пп "Что-что? {w}Моя новая прическа-пи? {w}Мой костюм-пи? {w}Ах да! {w}Скоро ведь выходит пятый сезон нашего аниме, вот я и приоделась-пи! {w}Как вам? {w}Милота, не правда ли-пи?"
-    Пп "ピってなに？、{w}その新しい髪型は？、{w}そのピしょう（衣装）は？って？{w}実はね！{w}私たちのアニメの五期がもうすぐなの、だから今日は新衣装を着てきたの！、っピ！{w}気に入ってくれた？{w}私、とってもかわピい、でしょ！？"
+    Пп "なになに？、{w}その新しい髪型は？、{w}その衣装は？って？{w}実は、{w}私たちのアニメの五期がもうすぐなんだっピ！だから今日はその新衣装のお披露目ピ！{w}気に入ってくれた？{w}私、とってもかわいピいっピよね！？"
 
 # game/script.rpy:296
 translate japanese_pirate start_f2ddc8c5:
 
     # Пп "Только пусть это пока будет нашим секретом, ладненько-пи?"
-    Пп "でも、今はこのことはまだ私たちだけのピ・ミ・ツ！わかった？"
+    Пп "でも、今はこのことはまだ私たちだけのピ・ミ・ツ！{w}わかったピ？"
 
 # game/script.rpy:302
 translate japanese_pirate start_4919c1b4:
 
     # Телевизор "Ограниченный сет: костюм Папипо-чан в комплекте с ультраредкой фигуркой Папипо-чан в наряде горничной!!! {w}Успейте купить! {w}В продаже всего пять дней!" with flash
-    Телевизор "限定版: パピポちゃんドレス　購入特典として激レアメイド服パピポちゃんフィギュアがついてくる！！！{w}今すぐ買おう！{w}5日間の限定販売！" with flash
+    Телевизор "限定版: パピポちゃんドレス　購入特典として激レアメイド服パピポちゃんフィギュアがついてくる！！！{w}今すぐ買おう！！{w}5日間の限定販売！" with flash
 
 # game/script.rpy:306
 translate japanese_pirate start_9ae19f31:
@@ -353,11 +353,11 @@ translate japanese_pirate start_32138286:
 
 # game/script.rpy:433
 translate japanese_pirate start_596a1bf9:
-    Пп "ピポ・ピポ・パァァーーーイ！{w}あなた、今でも魔法少女になって町をあらゆる問題から守りたいって夢は忘れてない？"
+    Пп "ピポ・ピポ・パァァーーーイ！{w}あなた、今でも魔法少女になって町をあらゆる問題から守りたいって夢は忘れてないピ？"
 
 # game/script.rpy:434
 translate japanese_pirate start_43e66490:
-    Пп "そんなあなただけの特別オファー！"
+    Пп "そんなあなただけの特別オファーっピ！"
 
 # game/script.rpy:435
 translate japanese_pirate start_32247bf5:
@@ -373,7 +373,7 @@ translate japanese_pirate start_8505cedf:
 
 # game/script.rpy:438
 translate japanese_pirate start_2cca57a2:
-    Пп "31-43-XXXに電話または、下記の住所を訪ねて、夢を叶えるチャンスをつかもう！"
+    Пп "31-43-XXXに電話または、下記の住所を訪ねて、夢を叶えるチャンスをつかむっピよ！"
 
 # game/script.rpy:439
 translate japanese_pirate start_9ae19f31_1:
@@ -725,7 +725,7 @@ translate japanese_pirate start_df52515b:
 
 # game/script.rpy:704
 translate japanese_pirate start_51cf5a81:
-    М "この方がアオイ・イナコ、{w}あなたのメンターで隊のリーダーよ。{w}あなたたちは長い時間を共にすることになるから、仲良くしてほしいわ。{w}さて、私はこれで失礼するわね。{w}応援してるわ。"
+    М "この方がアオイ イナコ、{w}あなたのメンターで隊のリーダーよ。{w}あなたたちは長い時間を共にすることになるから、仲良くしてほしいわ。{w}さて、私はこれで失礼するわね。{w}応援してるわ。"
 
 # game/script.rpy:705
 translate japanese_pirate start_2e74e940:
@@ -745,7 +745,7 @@ translate japanese_pirate start_c2eb7f4c:
 
 # game/script.rpy:711
 translate japanese_pirate start_4a5312f5:
-    И "あ、わ、わかったよ。{w}ホシガミ・ツキだね。{w}20歳。{w}じ、じ、女性。"
+    И "あ、わ、わかったよ。{w}ホシガミ ツキだね。{w}20歳。{w}じ、じ、女性。"
 
 # game/script.rpy:712
 translate japanese_pirate start_6f8a4a02:
@@ -869,7 +869,7 @@ translate japanese_pirate start_9cb9cbae:
 
 # game/script.rpy:821
 translate japanese_pirate start_4b62225f:
-    Л "す、すいません、{w}あれ、{w}もしかして何かの手違いなんですかね？{w}私、魔法少女になれるって話だと思って……。"
+    Л "す、すいません、{w}あれ、{w}何かの手違いですかね？{w}私、魔法少女になれるって話だと思って……。"
 
 # game/script.rpy:822
 translate japanese_pirate start_6fce8ca9:
@@ -1208,7 +1208,7 @@ translate japanese_pirate start_0c98083a:
 
 # game/script.rpy:993
 translate japanese_pirate start_ce595412:
-    А "はぁ？！{w}あれは、先に吹っ掛けてきたのはあいつだったし！"
+    А "はぁ？！{w}あれは！先に吹っ掛けてきたのはあいつのほうで！"
 
 # game/script.rpy:994
 translate japanese_pirate start_a356220c:
@@ -1909,7 +1909,7 @@ translate japanese_pirate E3att4_e7bd3ae4:
 translate japanese_pirate E3att4_20129aa7:
 
     # "Оглянувшись вокруг, я впервые увидела набережную в ее естественном виде. {w}Оказывается, она была раза в два шире, чем я себе представляла."
-    "私はあたりを見渡して、初めてその川岸の自然のままの姿を見た。{w}その川は私が最初に思っていたより二倍は幅があることがわかった。"
+    "私はあたりを見渡して、初めてその川岸の自然のままの姿を見出だした。{w}その川は私が最初に思っていたより二倍は幅があることがわかった。"
 
 # game/script.rpy:1529
 translate japanese_pirate E3att4_69e5c2a8:
@@ -3494,7 +3494,7 @@ translate japanese_pirate victory_762f2b83:
 translate japanese_pirate victory_9f685631:
 
     # "Он был небольшой и состоял из сэндвича с колбасой и сыром, шоколадного батончика и бутылки сока."
-    "それは小さく、ボローニャ風ソーセージとチーズのサンドイッチ、チョコレートバー、それにジュースの瓶が入っていた。"
+    "それは小さく、ソーセージとチーズのサンドイッチ、チョコレートバー、それにジュースの瓶が入っていた。"
 
 # game/script.rpy:2637
 translate japanese_pirate victory_43e713cd:
@@ -4076,7 +4076,7 @@ translate japanese_pirate victory_3b0f38a5:
 translate japanese_pirate victory_7b3d2773:
 
     # Л "(Черт! {w}Учили же меня фильмы ужасов…)"
-    Л "（なによ！{w}私、あんなにホラー映画を見て何を学んできたの....？)"
+    Л "（なによ！{w}私、あんなにホラー映画を見て何も学ばなかったの....？)"
 
 # game/script.rpy:2839
 translate japanese_pirate victory_0c503e28:
@@ -4997,13 +4997,13 @@ translate japanese_pirate victory_e87df371:
 translate japanese_pirate victory_8ab9f2a5:
 
     # Л "Не надо!"
-    Л "いらないって！"
+    Л "救急車はいらないって！"
 
 # game/script.rpy:3263
 translate japanese_pirate victory_2ca6fdd9:
 
     # "В этот раз я встала по будильнику. {w}Медленно, как мертвец из гроба, я поднялась с кровати и потерла сонные глаза. {w}Однако они все еще не хотели открываться."
-    "今度は目覚ましを使って自分で起きた。{w}私は棺桶の死体がするみたいにゆっくり起き上がって眠い目をこすった。{w}それでも私の目は開きたがらなかった。"
+    "今度は目覚ましを使って自分で起きられた。{w}私は棺桶の死体がするみたいにゆっくり起き上がって眠い目をこすった。{w}それでも私の目は開きたがらなかった。"
 
 # game/script.rpy:3264
 translate japanese_pirate victory_68b8ba5f:
@@ -5069,13 +5069,13 @@ translate japanese_pirate victory_0d1bc794:
 translate japanese_pirate victory_30ada7c3:
 
     # "Солнце еще не успело накалить улицы, и погода была вполне неплохая."
-    "太陽はまだ通りを湯立たせてはおらず、天候は良好といって良かった。"
+    "太陽もまだ通りを湯立たせてはおらず、天気も悪くなかった。"
 
 # game/script.rpy:3280
 translate japanese_pirate victory_5f655be5:
 
     # "Торопиться не приходилось, и я могла позволить себе немного прогуляться."
-    "急ぐ必要もなく、余分に歩く時間ができた。"
+    "急ぐ必要もなかったので、少し散歩する余裕ができた。"
 
 # game/script.rpy:3289
 translate japanese_pirate victory_0398f3b8:
@@ -5561,7 +5561,7 @@ translate japanese_pirate victory_760eacf4:
 translate japanese_pirate victory_611f3c6a:
 
     # З "Неважно..."
-    З "まあいいさ......"
+    З "もういい......"
 
 # game/script.rpy:3542
 translate japanese_pirate victory_489504e4:
@@ -6882,7 +6882,7 @@ translate japanese_pirate victory1_33b5fcb8:
 translate japanese_pirate victory1_68aef634:
 
     # Л "(Меня, наверное, уже заждались.)"
-    Л "（二人ともだいぶ待たせちゃってるなぁ。）"
+    Л "（二人ともだいぶ待たせちゃった。）"
 
 # game/script.rpy:4612
 translate japanese_pirate victory1_06052fd8:
