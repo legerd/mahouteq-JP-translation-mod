@@ -1,6 +1,8 @@
 # MAHOUTEQ! 非公式日本語翻訳 MOD
 Steamで配信されているノベルゲーム「[MAHOUTEQ!](https://store.steampowered.com/app/3793580/MAHOUTEQ/?l=japanese)」の非公式日本語翻訳 MOD です。
 
+正式な日本語対応より先に日本語でプレイしたい人向けです。
+
 ## インストール方法
 1. [こちら](https://github.com/legerd/mahouteq-JP-translation-mod/releases/latest/download/mahouteq-japanese-translation.zip)から最新の「mahouteq-japanese-translation.zip」ファイルをダウンロードし、解凍します。
 
